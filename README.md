@@ -1,6 +1,6 @@
 # UniCell Deconvolve Paper
 ----------------------------------
-This repository contains notebooks and scripts used in the UniCell Deconvolve paper, for the purposes of demonstrating how the figures, tables, and analyses presented in the paper were generated. Fully reproducing this analysis requires additional steps including downloading significant amounts of external data, in addition to changing filepaths. Some of these files may be updated in the near future.
+This repository contains notebooks and scripts used in the UniCell Deconvolve paper, for the purposes of demonstrating how the figures, tables, and analyses presented in the paper were generated. Fully reproducing this analysis requires additional steps including downloading significant amounts of external data, in addition to changing filepaths. All data required to reproduce the analysis is available upon reasonable request. Some of these files may be updated in the near future.
 
 For tutorials on using UniCellDeconvolve, please see the full documentation available at https://ucdeconvolve.readthedocs.io/en/latest/ and download the software package at https://github.com/dchary/ucdeconvolve/tree/main/ucdeconvolve
 
