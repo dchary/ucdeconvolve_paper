@@ -1,0 +1,899 @@
+﻿Accession,Platform,SeqClass,Species,Cells,PMID,Date,Title
+E-HCAD-18,Drop-Seq,shortread,Mouse,6095,30796046,2/24/19,Maturation Of Heart Valve Cell Populations During Postnatal Remodeling.
+E-MTAB-10026,10X Genomics,shortread,Human,656739,33879890,4/20/21,Deciphering the molecular immune response to COVID-19 using single cell multi-omics
+E-MTAB-10197,10X Genomics,shortread,Mouse,5058,29752062,5/13/18,Single-Cell Rna Sequencing Of Lymph Node Stromal Cells Reveals Niche-Associated Heterogeneity.
+E-MTAB-2983,Smart-Seq,longread,Human,30,26444631,10/9/15,Adult Human And Mouse Ovaries Lack Ddx4-Expressing Functional Oogonial Stem Cells.
+E-MTAB-3857,Fluidigm,longread,Mouse,243,26950746,3/8/16,T Cell Fate And Clonality Inference From Single-Cell Transcriptomes.
+E-MTAB-3929,Smart-Seq,longread,Human,1091,27062923,4/12/16,E-MTAB-3929
+E-MTAB-4547,Fluidigm,longread,Mouse,351,28479188,5/10/17,Vitamin A-Retinoic Acid Signaling Regulates Hematopoietic Stem Cell Dormancy.
+E-MTAB-4850,Smart-Seq,longread,Human,56,26860370,2/11/16,Linking The T Cell Receptor To The Single Cell Transcriptome In Antigen-Specific Human T Cells.
+E-MTAB-5485,Fluidigm,longread,Mouse,93,31092921,5/17/19,Tracing The Origin Of Adult Intestinal Stem Cells.
+E-MTAB-5553,Fluidigm,longread,Mouse,113,28522527,5/20/17,Lineage-Dependent Spatial And Functional Organization Of The Mammalian Enteric Nervous System.
+E-MTAB-5661,Fluidigm,longread,Mouse,269,28652613,6/28/17,Flipping Between Polycomb Repressed And Active Transcriptional States Introduces Noise In Gene Expression.
+E-MTAB-5727,Fluidigm,longread,Mouse,154,29330484,1/14/18,Single-Cell Rna-Sequencing Resolves Self-Antigen Expression During Mtec Development.
+E-MTAB-5802,Fluidigm,longread,Mouse,265,29925944,6/22/18,A Stromal Cell Population That Inhibits Adipogenesis In Mammalian Fat Depots.
+E-MTAB-6031,Fluidigm,longread,Mouse,189,32178760,3/18/20,Coordinated Hedgehog Signaling Induces New Hair Follicles In Adult Skin.
+E-MTAB-6051,Smart-Seq,longread,Mouse,536,30013148,7/18/18,T Cell Cytolytic Capacity Is Independent Of Initial Stimulation Strength.
+E-MTAB-6058,Fluidigm,longread,Human,62,29153988,11/21/17,Isolation And Comparative Transcriptome Analysis Of Human Fetal And Ipsc-Derived Cone Photoreceptor Cells.
+E-MTAB-6077,Nextera XT,shortread,Mouse;Zebrafish,90,30478328,11/28/18,Heart Enhancers With Deeply Conserved Regulatory Activity Are Established Early In Zebrafish Development.
+E-MTAB-6108,10X Genomics,shortread,Human,1245,29437159,2/14/18,Single Cell Rna Sequencing Of Stem Cell-Derived Retinal Ganglion Cells.
+E-MTAB-6142,Smart-Seq,longread,Human,89,29045817,10/19/17,Transcriptomic Characterization Of The Human Cell Cycle In Individual Unsynchronized Cells.
+E-MTAB-6149,10X Genomics,shortread,Human,38090,29988129,7/11/18,Phenotype Molding Of Stromal Cells In The Lung Tumor Microenvironment.
+E-MTAB-6153,10X Genomics,shortread,Mouse,19196,29311656,1/10/18,Defining Murine Organogenesis At Single-Cell Resolution Reveals A Role For The Leukotriene Pathway In Regulating Blood Progenitor Formation.
+E-MTAB-6173,10X Genomics,shortread,Mouse,10876,29346760,1/19/18,Single-Cell Transcriptional Profiling Reveals Cellular Diversity And Intercommunication In The Mouse Heart.
+E-MTAB-6308,10X Genomics,shortread,Mouse;Human,72540,31935371,1/15/20,An Integrated Gene Expression Landscape Profiling Approach To Identify Lung Tumor Endothelial Cell Heterogeneity And Angiogenic Candidates.
+E-MTAB-6362,Smart-Seq,longread,Mouse,314,30602787,1/4/19,Genomic Encoding Of Transcriptional Burst Kinetics.
+E-MTAB-6385,Smart-Seq,longread,Mouse,347,31657037,10/28/19,Biologically Indeterminate Yet Ordered Promiscuous Gene Expression In Single Medullary Thymic Epithelial Cells.
+E-MTAB-6386,Smart-Seq,longread,Human,111,29659703,4/17/18,B-Cell Receptor Reconstruction From Single-Cell Rna-Seq With Vdjpuzzle.
+E-MTAB-6487,10X Genomics,shortread,Mouse,11831,30042420,7/26/18,Interferon Gene Therapy Reprograms The Leukemia Microenvironment Inducing Protective Immunity To Multiple Tumor Antigens.
+E-MTAB-6524,10X Genomics,shortread,Human,9982,30267684,9/30/18,Single-Cell Profiling Identifies Key Pathways Expressed By Ipscs Cultured In Different Commercial Media.
+E-MTAB-6653,10X Genomics,shortread,Human,30631,29988129,7/11/18,Phenotype Molding Of Stromal Cells In The Lung Tumor Microenvironment.
+E-MTAB-6677,10X Genomics,shortread,Mouse,2793,29925944,6/22/18,A Stromal Cell Population That Inhibits Adipogenesis In Mammalian Fat Depots.
+E-MTAB-6678,Smart-Seq,longread,Human,4732,30429548,11/16/18,Single-Cell Reconstruction Of The Early Maternal-Fetal Interface In Humans.
+E-MTAB-6701,10X Genomics,shortread,Human,120943,30429548,11/16/18,Single-Cell Reconstruction Of The Early Maternal-Fetal Interface In Humans.
+E-MTAB-6818,Smart-Seq,longread,Mouse,51,29909970,6/19/18,Reversible De-Differentiation Of Mature White Adipocytes Into Preadipocyte-Like Precursors During Lactation.
+E-MTAB-6819,Fluidigm,longread,Mouse;Human,1202,30673604,1/24/19,Transcriptional Heterogeneity In Naive And Primed Human Pluripotent Stem Cells At Single-Cell Resolution.
+E-MTAB-6879,Nextera XT,shortread,Mouse;Human,1630,31422913,8/20/19,Defining The Identity And Dynamics Of Adult Gastric Isthmus Stem Cells.
+E-MTAB-6911,Smart-Seq,longread,Mouse;Human,303,30581079,12/26/18,Identification Of Embryonic Neural Plate Border Stem Cells And Their Generation By Direct Reprogramming From Adult Human Blood Cells.
+E-MTAB-6912,Smart-Seq,longread,Mouse;Human,172,30581079,12/26/18,Identification Of Embryonic Neural Plate Border Stem Cells And Their Generation By Direct Reprogramming From Adult Human Blood Cells.
+E-MTAB-6925,Smart-Seq,longread,Mouse;Human,82,30581079,12/26/18,Identification Of Embryonic Neural Plate Border Stem Cells And Their Generation By Direct Reprogramming From Adult Human Blood Cells.
+E-MTAB-6945,Nextera XT,shortread,Mouse;Human,9578,30443254,11/18/18,Single-Cell Analysis Identifies Thymic Maturation Delay In Growth-Restricted Neonatal Mice.
+E-MTAB-6967,10X Genomics,shortread,Mouse,130980,30787436,2/23/19,A Single-Cell Molecular Map Of Mouse Gastrulation And Early Organogenesis.
+E-MTAB-6970,Smart-Seq,longread,Mouse,253,30787436,2/23/19,A Single-Cell Molecular Map Of Mouse Gastrulation And Early Organogenesis.
+E-MTAB-6976,10X Genomics,shortread,Mouse,805,30173915,9/4/18,Self-Maintaining Gut Macrophages Are Essential For Intestinal Homeostasis.
+E-MTAB-6987,Fluidigm,longread,Mouse,91,31996681,1/31/20,Single-Cell Transcriptomics Identifies Cd44 As A Marker And Regulator Of Endothelial To Haematopoietic Transition.
+E-MTAB-7008,Smart-Seq,longread,Human,857,30595546,1/1/19,Method To Synchronize Cell Cycle Of Human Pluripotent Stem Cells Without Affecting Their Fundamental Characteristics.
+E-MTAB-7037,Fluidigm,longread,Human,461,30446505,11/18/18,Single-Cell Transcriptional Analysis Reveals Ilc-Like Cells In Zebrafish.
+E-MTAB-7051,Smart-Seq,longread,Human,642,30356220,10/26/18,Gene Expression Variability Across Cells And Species Shapes Innate Immunity.
+E-MTAB-7052,Fluidigm,longread,Human,1175,30356220,10/26/18,Gene Expression Variability Across Cells And Species Shapes Innate Immunity.
+E-MTAB-7094,10X Genomics,shortread,Mouse,3050,30988302,4/17/19,Origin And Differentiation Trajectories Of Fibroblastic Reticular Cells In The Splenic White Pulp.
+E-MTAB-7098,Smart-Seq,longread,Mouse,420,28479188,5/10/17,Vitamin A-Retinoic Acid Signaling Regulates Hematopoietic Stem Cell Dormancy.
+E-MTAB-7117,Smart-Seq,longread,Zebrafish,883,30446505,11/18/18,Single-Cell Transcriptional Analysis Reveals Ilc-Like Cells In Zebrafish.
+E-MTAB-7142,Drop-seq,shortread,Mouse,17729,30643263,1/16/19,Reference-Based Analysis Of Lung Single-Cell Sequencing Reveals A Transitional Profibrotic Macrophage.
+E-MTAB-7149,10X Genomics,shortread,Mouse,7849,31141696,5/30/19,Single-Cell Transcriptional Profiling Of Aortic Endothelium Identifies A Hierarchy From Endovascular Progenitors To Differentiated Cells.
+E-MTAB-7159,10X Genomics,shortread,Zebrafish,11264,30446505,11/18/18,Single-Cell Transcriptional Analysis Reveals Ilc-Like Cells In Zebrafish.
+E-MTAB-7249,Fluidigm,longread,Human,183,32054838,2/15/20,A Living Biobank Of Ovarian Cancer Ex Vivo Models Reveals Profound Mitotic Heterogeneity.
+E-MTAB-7303,Smart-Seq,longread,Human,74,27460926,7/28/16,Single-Cell Tcrseq: Paired Recovery Of Entire T-Cell Alpha And Beta Chain Transcripts In T-Cell Receptors From Single-Cell Rnaseq.
+E-MTAB-7311,10X Genomics,shortread,Mouse,33694,30737144,2/10/19,Single-Cell Transcriptomics Of Regulatory T Cells Reveals Trajectories Of Tissue Adaptation.
+E-MTAB-7316,10X Genomics,shortread,Human,19076,31436334,8/23/19,A Single-Cell Transcriptome Atlas Of The Adult Human Retina.
+E-MTAB-7320,10X Genomics,shortread,Mouse,38139,30846445,3/9/19,Single Cell Transcriptomics Reveals Spatial And Temporal Dynamics Of Gene Expression In The Developing Mouse Spinal Cord.
+E-MTAB-7365,Fluidigm,longread,Mouse,110,28263961,3/7/17,Power Analysis Of Single-Cell Rna-Sequencing Experiments.
+E-MTAB-7376,10X Genomics,shortread,Mouse,39734,30912746,3/26/19,"Single-cell expression profiling reveals dynamic flux of cardiac stromal, vascular and immune cells in health and injury"
+E-MTAB-7381,Smart-Seq,longread,Human,247,30692988,1/30/19,Maturing Human Cd127+ Ccr7+ Pdl1+ Dendritic Cells Express Aire In The Absence Of Tissue Restricted Antigens.
+E-MTAB-7407,10X Genomics,shortread,Human,90008,31597962,10/11/19,Decoding Human Fetal Liver Haematopoiesis.
+E-MTAB-7417,10X Genomics,shortread,Mouse,2629,32433953,5/21/20,Single-Cell Rna Sequencing Reveals A Dynamic Stromal Niche That Supports Tumor Growth.
+E-MTAB-7427,Fluidigm,longread,Mouse,5815,32433953,5/21/20,Single-Cell Rna Sequencing Reveals A Dynamic Stromal Niche That Supports Tumor Growth.
+E-MTAB-7606,Smart-Seq,longread,Human,186,30778243,2/20/19,"Human CD8+ T cell cross-reactivity across influenza A, B and C viruses"
+E-MTAB-7660,10X Genomics,shortread,Mouse,3875,31092921,5/17/19,Tracing The Origin Of Adult Intestinal Stem Cells.
+E-MTAB-7678,10X Genomics,shortread,Mouse,6433,32614947,7/3/20,Single-Cell Analyses And Machine Learning Define Hematopoietic Progenitor And Hsc-Like Cells Derived From Human Pscs.
+E-MTAB-7703,10X Genomics,shortread,Mouse,17526,30988302,4/17/19,Origin And Differentiation Trajectories Of Fibroblastic Reticular Cells In The Splenic White Pulp.
+E-MTAB-7895,10X Genomics,shortread,Mouse,66074,32130914,3/5/20,Dynamic Interstitial Cell Response During Myocardial Infarction Predicts Resilience To Rupture In Genetically Diverse Mice.
+E-MTAB-7901,Smart-Seq,longread,Mouse;Human,939,31422912,8/20/19,Distinct Molecular Trajectories Converge To Induce Naive Pluripotency.
+E-MTAB-7919,10X Genomics,shortread,Mouse,5862,28652613,6/28/17,Flipping Between Polycomb Repressed And Active Transcriptional States Introduces Noise In Gene Expression.
+E-MTAB-8007,10X Genomics,shortread,Human,39525,32066951,2/19/20,Distinct Microbial And Immune Niches Of The Human Colon.
+E-MTAB-8077,10X Genomics,shortread,Mouse,37994,32059779,2/16/20,Single-Cell Transcriptome Atlas Of Murine Endothelial Cells.
+E-MTAB-8142,10X Genomics,shortread,Human,181226,33479125,1/23/21,Developmental Cell Programs Are Co-Opted In Inflammatory Skin Disease.
+E-MTAB-8221,10X Genomics,shortread,Human,32697,32109386,2/29/20,In¬†Vitro And In¬†Vivo Development Of The Human Airway At Single-Cell Resolution.
+E-MTAB-8263,10X Genomics,shortread,Mouse,54321,26950746,3/8/16,T Cell Fate And Clonality Inference From Single-Cell Transcriptomes.
+E-MTAB-8474,10X Genomics,shortread,Human,39520,32066951,2/19/20,Distinct Microbial And Immune Niches Of The Human Colon.
+E-MTAB-8483,10X Genomics,shortread,Mouse,14006,31699795,11/9/19,Single-Cell Rna Sequencing Reveals Stromal Evolution Into Lrrc15
+E-MTAB-8495,10X Genomics,shortread,Human,70797,33602855,2/20/21,Cholangiocyte Organoids Can Repair Bile Ducts After Transplantation In The Human Liver.
+E-MTAB-8559,Unknown,shortread,Human,18307,29311656,1/10/18,Defining Murine Organogenesis At Single-Cell Resolution Reveals A Role For The Leukotriene Pathway In Regulating Blood Progenitor Formation.
+E-MTAB-8561,Smart-Seq,longread,Mouse,346,33116305,10/30/20,Snrna-Seq Reveals A Subpopulation Of Adipocytes That Regulates Thermogenesis.
+E-MTAB-8581,10X Genomics,shortread,Mouse;Human,241561,32079746,2/23/20,A Cell Atlas Of Human Thymic Development Defines T Cell Repertoire Formation.
+E-MTAB-8629,Drop-seq,shortread,Mouse;Human,9754,30356220,10/26/18,Gene Expression Variability Across Cells And Species Shapes Innate Immunity.
+E-MTAB-8809,10X Genomics,shortread,Human,26798,32317663,4/23/20,Exploiting Evolutionary Steering To Induce Collateral Drug Sensitivity In Cancer.
+E-MTAB-8810,10X Genomics,shortread,Mouse,38335,32795101,8/17/20,High-Resolution Transcriptomic Profiling Of The Heart During Chronic Stress Reveals Cellular Drivers Of Cardiac Fibrosis And Hypertrophy.
+E-MTAB-8901,10X Genomics,shortread,Human,112996,33290721,12/9/20,Single-Cell Sequencing Of Developing Human Gut Reveals Transcriptional Links To Childhood Crohn'S Disease.
+E-MTAB-9024,10X Genomics,shortread,Human,131385,33575589,2/13/21,Comparative Performance Of The Bgi And Illumina Sequencing Technology For Single-Cell Rna-Sequencing.
+E-MTAB-9221,10X Genomics,shortread,Human,6002,32810439,8/19/20,Elevated Calprotectin And Abnormal Myeloid Cell Subsets Discriminate Severe From Mild Covid-19.
+E-MTAB-9268,Smart-Seq,longread,Mouse,380,27460926,7/28/16,Single-Cell Tcrseq: Paired Recovery Of Entire T-Cell Alpha And Beta Chain Transcripts In T-Cell Receptors From Single-Cell Rnaseq.
+E-MTAB-9492,10X Genomics,shortread,Human,1785,30846445,3/9/19,Single Cell Transcriptomics Reveals Spatial And Temporal Dynamics Of Gene Expression In The Developing Mouse Spinal Cord.
+E-MTAB-9510,10X Genomics,shortread,Human,3373,33586340,2/16/21,Myogenesis Modelled By Human Pluripotent Stem Cells: A Multi-Omic Study Of Duchenne Myopathy Early Onset.
+E-MTAB-9969,10X Genomics,shortread,Human,65708,30429548,11/16/18,Single-Cell Reconstruction Of The Early Maternal-Fetal Interface In Humans.
+E105114,10X Genomics,shortread,Human,53309,32246845,4/5/20,Sars-Cov-2 Receptor Ace2 And Tmprss2 Are Primarily Expressed In Bronchial Transient Secretory Cells.
+EGAS00001002185,10x Genomics,shortread,Human,30950,31554641,9/27/19,The Phenotypes Of Proliferating Glioblastoma Cells Reside On A Single Axis Of Variation.
+EGAS00001002927,10x Genomics,shortread,Human,64052,30355494,10/26/18,Transcriptional Programming Of Normal And Inflamed Human Epidermis At Single-Cell Resolution.
+EGAS00001004344,10x Genomics,shortread,Human,72812,33208946,11/20/20,A Molecular Cell Atlas Of The Human Lung From Single-Cell Rna Sequencing.
+EGAS00001004481,10X Genomics,shortread,Human,161072,32591762,6/28/20,Covid-19 Severity Correlates With Airway Epithelium-Immune Cell Interactions Identified By Single-Cell Analysis.
+EGAS00001004772,10X Genomics,shortread,Human,87465,33361824,12/29/20,Hypertension Delays Viral Clearance And Exacerbates Airway Hyperinflammation In Patients With Covid-19.
+ENCSR713GIS,10X Genomics,shortread,Mouse,86851,32728245,7/31/20,The Changing Mouse Embryo Transcriptome At Whole Tissue And Single-Cell Resolution.
+GSE100337,Nextera XT,shortread,Human,311,28666115,7/1/17,IfnŒ≥-Dependent Tissue-Immune Homeostasis Is Co-Opted In The Tumor Microenvironment.
+GSE100426,Smart-Seq,longread,Mouse,1572,30540934,12/13/18,Heterogeneous Responses Of Hematopoietic Stem Cells To Inflammatory Stimuli Are Altered With Age.
+GSE100471,Nextera XT,shortread,Mouse,563,29371425,1/27/18,Defining The Earliest Step Of Cardiovascular Lineage Segregation By Single-Cell Rna-Seq.
+GSE100597,Smart-Seq,longread,Mouse,669,28768204,8/3/17,Single-Cell Landscape Of Transcriptional Heterogeneity And Cell Fate Decisions During Mouse Early Gastrulation.
+GSE100618,Smart-Seq,longread,Human,323,29167569,11/24/17,Single-Cell Analysis Reveals The Continuum Of Human Lympho-Myeloid Progenitor Cells.
+GSE100861,Nextera XT,shortread,Mouse,22964,29689192,4/25/18,Hippo Signaling Plays An Essential Role In Cell State Transitions During Cardiac Fibroblast Development.
+GSE101334,Smart-Seq,longread,Mouse,165,28886383,9/9/17,Anatomically And Functionally Distinct Lung Mesenchymal Populations Marked By Lgr5 And Lgr6.
+GSE101712,Unknown,shortread,Mouse,548,28899870,9/14/17,Mbd3/Nurd Controls Lymphoid Cell Fate And Inhibits Tumorigenesis By Repressing A B Cell Transcriptional Program.
+GSE101901,Nextera XT,shortread,Mouse,7071,30254269,9/27/18,Single Cell Molecular Alterations Reveal Target Cells And Pathways Of Concussive Brain Injury.
+GSE101984,Drop-seq,shortread,Mouse,5979,28957441,9/29/17,Diversity Amongst Trigeminal Neurons Revealed By High Throughput Single Cell Sequencing.
+GSE102090,10X Genomics,shortread,Human,12747,29706538,5/1/18,Hmgb2 Loss Upon Senescence Entry Disrupts Genomic Organization And Induces Ctcf Clustering Across Cell Types.
+GSE102130,Smart-Seq,longread,Human,3870,29674595,4/21/18,Developmental And Oncogenic Programs In H3K27M Gliomas Dissected By Single-Cell Rna-Seq.
+GSE102455,Fluidigm,longread,Mouse,339,29030486,10/17/17,Single-Cell Rna Sequencing Reveals Developmental Heterogeneity Among Early Lymphoid Progenitors.
+GSE102475,Smart-Seq,longread,Unknown,150,29240790,12/15/17,Single-Cell Rna Sequencing Reveals Intrinsic And Extrinsic Regulatory Heterogeneity In Yeast Responding To Stress.
+GSE102479,10X Genomics,shortread,Mouse;Human,252,29487567,3/1/18,Regulatory Architecture Of The LŒ≤t2 Gonadotrope Cell Underlying The Response To Gonadotropin-Releasing Hormone.
+GSE102596,10X Genomics,shortread,Human,3514,29449449,2/17/18,Conserved And Divergent Features Of Mesenchymal Progenitor Cell Types Within The Cortical Nephrogenic Niche Of The Human And Mouse Kidney.
+GSE102665,10X Genomics,shortread,Mouse,3106,29728440,5/8/18,Peripheral PDGFRŒ± + gp38 + mesenchymal cells support the differentiation of fetal liver-derived ILC2
+GSE102827,Nextera XT,longread,Mouse,110552,29230054,12/13/17,Single-Cell Analysis Of Experience-Dependent Transcriptomic States In The Mouse Visual Cortex.
+GSE102934,10X Genomics,shortread,Mouse;Human,1711,29724792,5/5/18,Bigscale: An Analytical Framework For Big-Scale Single-Cell Data.
+GSE102962,Unknown,shortread,Mouse,293,29483303,2/28/18,Single-Cell Rnaseq Reveals Seven Classes Of Colonic Sensory Neuron.
+GSE103154,Unknown,shortread,Human,1762,29802404,5/29/18,Tracing The Temporal-Spatial Transcriptome Landscapes Of The Human Fetal Digestive Tract Using Single-Cell Rna-Sequencing.
+GSE103221,Fluidigm,longread,Mouse,151554,30772174,2/18/19,Resolving Cell Fate Decisions During Somatic Cell Reprogramming By Single-Cell Rna-Seq.
+GSE103224,Nextera XT,shortread,Human,16306,30041684,7/26/18,Single-Cell Transcriptome Analysis Of Lineage Diversity In High-Grade Glioma.
+GSE103322,Smart-Seq,longread,Human,5766,29198524,12/5/17,Single-Cell Transcriptomic Analysis Of Primary And Metastatic Tumor Ecosystems In Head And Neck Cancer.
+GSE103334,Smart-Seq,longread,Mouse,2002,29020624,10/12/17,Temporal Tracking Of Microglia Activation In Neurodegeneration At Single-Cell Resolution.
+GSE103866,Smart-Seq,longread,Human,124,29315726,1/10/18,Single-Cell Analysis Reveals Cancer Stem Cell Heterogeneity In Hepatocellular Carcinoma.
+GSE103867,10X Genomics,shortread,Human,3388,29315726,1/10/18,Single-Cell Analysis Reveals Cancer Stem Cell Heterogeneity In Hepatocellular Carcinoma.
+GSE103892,Drop-seq,shortread,Mouse,16478,29466745,2/22/18,Massively Parallel Single Nucleus Transcriptional Profiling Defines Spinal Cord Neurons And Their Activity During Behavior.
+GSE103918,10X Genomics,shortread,Mouse;Human,1384,29657097,4/17/18,Single-Cell Transcriptomic Profiling Of Pluripotent Stem Cell-Derived Scgb3A2+ Airway Epithelium.
+GSE103919,Fluidigm,longread,Mouse;Human,244,29657097,4/17/18,Single-Cell Transcriptomic Profiling Of Pluripotent Stem Cell-Derived Scgb3A2+ Airway Epithelium.
+GSE103983,Nextera XT,shortread,Mouse;Human,20231,29513653,3/8/18,Developmental Diversification Of Cortical Inhibitory Interneurons.
+GSE104154,10X Genomics,shortread,Mouse,10014,29590628,3/29/18,Single-Cell Deconvolution Of Fibroblast Heterogeneity In Mouse Pulmonary Fibrosis.
+GSE104156,10X Genomics,shortread,Mouse,41791,29513653,3/8/18,Developmental Diversification Of Cortical Inhibitory Interneurons.
+GSE104157,Smart-Seq,longread,Mouse,1394,29513653,3/8/18,Developmental Diversification Of Cortical Inhibitory Interneurons.
+GSE104556,10X Genomics,shortread,Mouse;Human,2359,30204153,9/12/18,Single-Cell Rna Sequencing Of Adult Mouse Testes.
+GSE104600,10X Genomics,shortread,Human,941,29309048,1/9/18,Early B Cell Changes Predict Autoimmunity Following Combination Immune Checkpoint Blockade.
+GSE104995,Smart-Seq,longread,Human,341,30291229,10/7/18,Myelo-Lymphoid Lineage Restriction Occurs In The Human Haematopoietic Stem Cell Compartment Before Lymphoid-Primed Multipotent Progenitors.
+GSE105054,Unknown,shortread,Mouse,469,28296635,3/16/17,Dynamics Of Embryonic Stem Cell Differentiation Inferred From Single-Cell Transcriptomics Show A Series Of Transitions Through Discrete Cell States.
+GSE105451,Smart-Seq,longread,Human,165,30765193,2/16/19,Unravelling Intratumoral Heterogeneity Through High-Sensitivity Single-Cell Mutational Analysis And Parallel Rna Sequencing.
+GSE106218,Fluidigm,longread,Human,432,31558476,9/29/19,Alterations In The Transcriptional Programs Of Myeloma Cells And The Microenvironment During Extramedullary Progression Affect Proliferation And Immune Evasion.
+GSE106236,Nextera XT,shortread,Mouse,605,30250253,9/27/18,Discovery Of A Periosteal Stem Cell Mediating Intramembranous Bone Formation.
+GSE106466,Smart-Seq,longread,Zebrafish,284,29700225,4/28/18,Single-Cell Reconstruction Of Developmental Trajectories During Zebrafish Embryogenesis.
+GSE106481,Unknown,shortread,Human;Chimpanzee,90,30154223,8/30/18,Single-Cell Rna-Sequencing Reveals The Existence Of Naive And Primed Pluripotency In Pre-Implantation Rhesus Monkey Embryos.
+GSE106514,Fluidigm,longread,Mouse,206,30865898,3/14/19,Single-Cell Analysis Reveals Heterogeneity Of High Endothelial Venules And Different Regulation Of Genes Controlling Lymphocyte Entry To Lymph Nodes.
+GSE106542,Smart-Seq,longread,Human,38,29352091,1/21/18,Precursors Of Human Cd4
+GSE106543,10X Genomics,shortread,Human,6201,29352091,1/21/18,Precursors Of Human Cd4
+GSE106973,Nextera XT,shortread,Mouse,131,29588278,3/29/18,A Single-Cell Hematopoietic Landscape Resolves 8 Lineage Trajectories And Defects In Kit Mutant Mice.
+GSE107185,10X Genomics,shortread,Human,91546,30448000,11/19/18,Mapping Cellular Reprogramming Via Pooled Overexpression Screens With Paired Fitness And Single-Cell Rna-Sequencing Readout.
+GSE107585,10X Genomics,shortread,Mouse,21683,29622724,4/7/18,Single-Cell Transcriptomics Of The Mouse Kidney Reveals Potential Cellular Targets Of Kidney Disease.
+GSE107618,Smart-Seq,longread,Mouse;Human,2047,31269016,7/4/19,Dissecting The Transcriptome Landscape Of The Human Fetal Neural Retina And Retinal Pigment Epithelium By Single-Cell Rna-Seq Analysis.
+GSE107632,Smart-Seq,longread,Mouse,962,29320739,1/11/18,"Variation In Activity State, Axonal Projection, And Position Define The Transcriptional Identity Of Individual Neocortical Projection Neurons."
+GSE107653,Unknown,shortread,Mouse,163,29300724,1/5/18,A Novel Prospective Isolation Of Murine Fetal Liver Progenitors To Study In Utero Hematopoietic Defects.
+GSE107727,10X Genomics,shortread,Mouse,59322,29588278,3/29/18,A Single-Cell Hematopoietic Landscape Resolves 8 Lineage Trajectories And Defects In Kit Mutant Mice.
+GSE107858,Nextera XT,shortread,Human,62,30463022,11/22/18,"Single-Cell Transcriptome Analysis Reveals Estrogen Signaling Coordinately Augments One-Carbon, Polyamine, And Purine Synthesis In Breast Cancer."
+GSE108020,Smart-Seq,longread,Mouse,442,29499164,3/3/18,Single-Cell Rna-Seq Of Mouse Dopaminergic Neurons Informs Candidate Gene Selection For Sporadic Parkinson Disease.
+GSE108097,Drop-seq,shortread,Mouse;Human,304985,29775597,5/19/18,Mapping The Mouse Cell Atlas By Microwell-Seq.
+GSE108108,Smart-Seq,longread,Mouse,263,29031728,10/17/17,Single-Cell Rna-Sequencing Reveals A Distinct Population Of Proglucagon-Expressing Cells Specific To The Mouse Upper Small Intestine.
+GSE108155,Unknown,shortread,Mouse,1364,30021172,7/19/18,Differences In Cell Cycle Status Underlie Transcriptional Heterogeneity In The Hsc Compartment.
+GSE108383,Fluidigm,longread,Human,299,30061114,8/1/18,Single-Cell Rna-Seq Analysis Identifies Markers Of Resistance To Targeted Braf Inhibitors In Melanoma Cell Populations.
+GSE108699,10X Genomics,shortread,Human,56862,29457792,2/20/18,On The Design Of Crispr-Based Single-Cell Molecular Screens.
+GSE108788,10X Genomics,shortread,Mouse,886,29398364,2/6/18,Graded Arrays Of Spinal And Supraspinal V2A Interneuron Subtypes Underlie Forelimb And Hindlimb Motor Control.
+GSE108849,Fluidigm,longread,Human,508,29630593,4/10/18,A Multitask Clustering Approach For Single-Cell Rna-Seq Analysis In Recessive Dystrophic Epidermolysis Bullosa.
+GSE108892,Smart-Seq,longread,Mouse,59513,31296938,7/13/19,Author Correction: The Bone Marrow Microenvironment At Single-Cell Resolution.
+GSE108970,Clontech SMRTr,longread,Mouse,261,30404016,11/8/18,"The Mammalian Spermatogenesis Single-Cell Transcriptome, From Spermatogonial Stem Cells To Spermatids."
+GSE108974,Clontech SMRTr,longread,Mouse,285,30404016,11/8/18,"The Mammalian Spermatogenesis Single-Cell Transcriptome, From Spermatogonial Stem Cells To Spermatids."
+GSE108977,Clontech SMRTr,longread,Mouse;Human,613,30404016,11/8/18,"The Mammalian Spermatogenesis Single-Cell Transcriptome, From Spermatogonial Stem Cells To Spermatids."
+GSE108989,Smart-Seq,longread,Human,10487,30479382,11/28/18,Lineage Tracking Reveals Dynamic Relationships Of T Cells In Colorectal Cancer.
+GSE109037,10X Genomics,shortread,Mouse;Human,21243,30404016,11/8/18,"The Mammalian Spermatogenesis Single-Cell Transcriptome, From Spermatogonial Stem Cells To Spermatids."
+GSE109100,CEL-seq2,shortread,Mouse,334,31374198,8/3/19,Interconversion Between Tumorigenic And Differentiated States In Acute Myeloid Leukemia.
+GSE109100,CEL-seq2,shortread,Mouse,334,31374198,8/3/19,Interconversion Between Tumorigenic And Differentiated States In Acute Myeloid Leukemia.
+GSE109113,10X Genomics,shortread,Mouse,472,29550076,3/20/18,Long-Term Correction Of Diabetes In Mice By In¬†Vivo Reprogramming Of Pancreatic Ducts.
+GSE109262,Unknown,shortread,Mouse,71,29472610,2/24/18,Scnmt-Seq Enables Joint Profiling Of Chromatin Accessibility Dna Methylation And Transcription In Single Cells.
+GSE109308,KAPA Hyper Prep Kit,shortread,Human,8292,31744909,11/21/19,Genomic And Transcriptomic Profiling Of Carcinogenesis In Patients With Familial Adenomatous Polyposis.
+GSE109324,Smart-Seq,longread,Mouse,56,30792200,2/23/19,Bone Marrow Endothelial Cell-Derived Interleukin-4 Contributes To Thrombocytopenia In Acute Myeloid Leukemia.
+GSE109535,Nextera XT,shortread,Mouse;Human,24733,30462277,11/22/18,"Scftd-Seq: Freeze-Thaw Lysis Based, Portable Approach Toward Highly Distributed Single-Cell 3' Mrna Profiling."
+GSE109564,InDrops,shortread,Human,3893,29980650,7/8/18,Single-Cell Transcriptomics Of A Human Kidney Allograft Biopsy Specimen Defines A Diverse Inflammatory Response.
+GSE109726,CEL-seq,shortread,Mouse,174,29434354,2/13/18,Single-Cell Gene Expression Reveals A Landscape Of Regulatory T Cell Phenotypes Shaped By The Tcr.
+GSE109774,Smart-Seq,longread,Mouse,41952,30283141,10/5/18,Single-Cell Transcriptomics Of 20 Mouse Organs Creates A Tabula Muris.
+GSE109816,Nextera XT,shortread,Human,193,31915373,1/10/20,Single-Cell Reconstruction Of The Adult Human Heart During Heart Failure And Recovery Reveals The Cellular Landscape Underlying Cardiac Function.
+GSE109822,Nextera XT,longread,Mouse;Human,175,29391249,2/3/18,Spatial And Single-Cell Transcriptional Profiling Identifies Functionally Distinct Human Dermal Fibroblast Subpopulations.
+GSE109999,CEL-seq,shortread,Mouse,364,30096152,8/11/18,Scpipe: A Flexible R/Bioconductor Preprocessing Pipeline For Single-Cell Rna-Sequencing Data.
+GSE110010,Drop-seq,shortread,Unknown,9026,29643508,4/13/18,Aspm Knockout Ferret Reveals An Evolutionary Mechanism Governing Cerebral Cortical Size.
+GSE110265,Smart-Seq,longread,Mouse,122,30128894,8/22/18,Dgcr8 Deletion In The Primitive Heart Uncovered Novel Microrna Regulating The Balance Of Cardiac-Vascular Gene Program.
+GSE110357,Smart-Seq,longread,Mouse,340,29670281,4/20/18,Identification Of The Tumour Transition States Occurring During Emt.
+GSE110371,Fluidigm,longread,Mouse,219,29666189,4/19/18,Single-Cell Rna-Seq Reveals Cell Heterogeneity And Hierarchy Within Mouse Mammary Epithelia.
+GSE110499,Fluidigm,longread,Human,145,29898899,6/15/18,Linking Transcriptional And Genetic Tumor Heterogeneity Through Allele Analysis Of Single-Cell Rna-Seq Data.
+GSE110513,Smart-Seq,longread,Mouse;Human,15310,29608179,4/3/18,"Integrating Single-Cell Transcriptomic Data Across Different Conditions, Technologies, And Species."
+GSE110547,InDrops,shortread,Mouse,1936,29434354,2/13/18,Single-Cell Gene Expression Reveals A Landscape Of Regulatory T Cell Phenotypes Shaped By The Tcr.
+GSE110558,InDrops,shortread,Mouse,2853,29434354,2/13/18,Single-Cell Gene Expression Reveals A Landscape Of Regulatory T Cell Phenotypes Shaped By The Tcr.
+GSE110568,InDrops,shortread,Mouse,2030,29434354,2/13/18,Single-Cell Gene Expression Reveals A Landscape Of Regulatory T Cell Phenotypes Shaped By The Tcr.
+GSE110679,InDrops,shortread,Mouse,5744,29434354,2/13/18,Single-Cell Gene Expression Reveals A Landscape Of Regulatory T Cell Phenotypes Shaped By The Tcr.
+GSE110686,10X Genomics,shortread,Human,5708,29942092,6/27/18,Single-Cell Profiling Of Breast Cancer T Cells Reveals A Tissue-Resident Memory Subset Associated With Improved Prognosis.
+GSE110688,InDrops,shortread,Mouse,967,29434354,2/13/18,Single-Cell Gene Expression Reveals A Landscape Of Regulatory T Cell Phenotypes Shaped By The Tcr.
+GSE110692,InDrops,shortread,Mouse,4568,29434354,2/13/18,Single-Cell Gene Expression Reveals A Landscape Of Regulatory T Cell Phenotypes Shaped By The Tcr.
+GSE110746,10X Genomics,shortread,Mouse,8345,30559380,12/19/18,Loss Of Adar1 In Tumours Overcomes Resistance To Immune Checkpoint Blockade.
+GSE110894,CEL-seq,shortread,Mouse,1319,31222014,6/22/19,Targeting Enhancer Switching Overcomes Non-Genetic Drug Resistance In Acute Myeloid Leukaemia.
+GSE111014,10X Genomics,shortread,Human,28207,31996669,1/31/20,Chromatin Mapping And Single-Cell Immune Profiling Define The Temporal Dynamics Of Ibrutinib Response In Cll.
+GSE111027,Smart-Seq,longread,Mouse,622,30487586,11/30/18,Single-Cell Rna Sequencing Unveils An Il-10-Producing Helper Subset That Sustains Humoral Immunity During Persistent Infection.
+GSE111070,10X Genomics,shortread,Mouse,2268,29434354,2/13/18,Single-Cell Gene Expression Reveals A Landscape Of Regulatory T Cell Phenotypes Shaped By The Tcr.
+GSE111108,10X Genomics,shortread,Human,3784,30096152,8/11/18,Scpipe: A Flexible R/Bioconductor Preprocessing Pipeline For Single-Cell Rna-Sequencing Data.
+GSE111113,10X Genomics,shortread,Mouse,31727,30089273,8/9/18,Single-Cell Transcriptomes Distinguish Stem Cell State Changes And Lineage Specification Programs In Early Mammary Gland Development.
+GSE111229,Smart-Seq,longread,Mouse,702,30514914,12/6/18,Spatially And Functionally Distinct Subclasses Of Breast Cancer-Associated Fibroblasts Revealed By Single Cell Rna Sequencing.
+GSE111360,10X Genomics,shortread,Mouse;Human,21693,30550791,12/15/18,Organoid Modeling Of The Tumor Immune Microenvironment.
+GSE111402,10X Genomics,shortread,Mouse,3123,30357357,10/26/18,Single-Cell Stabilization Method Identifies Gonadotrope Transcriptional Dynamics And Pituitary Cell Type Heterogeneity.
+GSE111461,Fluidigm,longread,Mouse,51,30357357,10/26/18,Single-Cell Stabilization Method Identifies Gonadotrope Transcriptional Dynamics And Pituitary Cell Type Heterogeneity.
+GSE111588,10X Genomics,shortread,Mouse,1291,30265241,9/29/18,Identification Of Functionally Distinct Fibro-Inflammatory And Adipogenic Stromal Subpopulations In Visceral Adipose Tissue Of Adult Mice.
+GSE111672,InDrops,shortread,Human,5893,31932730,1/15/20,Integrating Microarray-Based Spatial Transcriptomics And Single-Cell Rna-Seq Reveals Tissue Architecture In Pancreatic Ductal Adenocarcinomas.
+GSE111860,Fluidigm,longread,Human,444,30108108,8/16/18,Induced Pluripotent Stem Cell-Based Mapping Of Œí-Globin Expression Throughout Human Erythropoietic Development.
+GSE111892,Smart-Seq,longread,Human,122,31227543,6/23/19,Single-Cell Transcriptomic Analysis Of Tissue-Resident Memory T Cells In Human Lung Cancer.
+GSE111896,10X Genomics,shortread,Human,11681,31227543,6/23/19,Single-Cell Transcriptomic Analysis Of Tissue-Resident Memory T Cells In Human Lung Cancer.
+GSE111901,InDrops,shortread,Human,1624,29434354,2/13/18,Single-Cell Gene Expression Reveals A Landscape Of Regulatory T Cell Phenotypes Shaped By The Tcr.
+GSE111976,Fluidigm,longread,Human,68384,32929266,9/16/20,Single-Cell Transcriptomic Atlas Of The Human Endometrium During The Menstrual Cycle.
+GSE112008,KAPA Hyper Prep Kit,shortread,Mouse,543,30218073,9/16/18,Med23 Serves As A Gatekeeper Of The Myeloid Potential Of Hematopoietic Stem Cells.
+GSE112013,10X Genomics,shortread,Human,6228,30315278,10/14/18,The Adult Human Testis Transcriptional Cell Atlas.
+GSE112177,Clontech SMRTr,shortread,Mouse,64,29970990,7/5/18,A Guide To Single-Cell Transcriptomics In Adult Rodent Brain: The Medium Spiny Neuron Transcriptome Revisited.
+GSE112271,10X Genomics,shortread,Human,59517,31941899,1/17/20,Intratumoral Heterogeneity And Clonal Evolution In Liver Cancer.
+GSE112417,TruSeq,shortread,Mouse;Human,352,29871976,6/7/18,Histone Variant H2A.Z Is Required For The Maintenance Of Smooth Muscle Cell Identity As Revealed By Single-Cell Transcriptomics.
+GSE112507,Fluidigm,longread,Mouse;Human,86,30681766,1/27/19,Crx Expression In Pluripotent Stem Cell-Derived Photoreceptors Marks A Transplantable Subpopulation Of Early Cones.
+GSE112692,Fluidigm,longread,Human,334,30463007,11/22/18,The Molecular Signature Of Megakaryocyte-Erythroid Progenitors Reveals A Role For The Cell Cycle In Fate Specification.
+GSE112865,10X Genomics,shortread,Mouse,4230,30613266,1/8/19,Arg1 Expression Defines Immunosuppressive Subsets Of Tumor-Associated Macrophages.
+GSE112903,10X Genomics,shortread,Mouse,13533,29752062,5/13/18,Single-Cell Rna Sequencing Of Lymph Node Stromal Cells Reveals Niche-Associated Heterogeneity.
+GSE113046,Smart-Seq,longread,Mouse;Human,276,31126997,5/28/19,Identification Of Two Distinct Pathways Of Human Myelopoiesis.
+GSE113049,10X Genomics,shortread,Mouse,10093,30913038,3/27/19,Single Cell Rna Sequencing Identifies TgfŒ≤ As A Key Regenerative Cue Following Lps-Induced Lung Injury.
+GSE113074,InDrops,shortread,Zebrafish;Frog,130007,29700227,4/28/18,The Dynamics Of Gene Expression In Vertebrate Embryogenesis At Single-Cell Resolution.
+GSE113099,Fluidigm,longread,Human,173,29795293,5/26/18,Profiling Human Breast Epithelial Cells Using Single Cell Rna Sequencing Identifies Cell Diversity.
+GSE113127,Fluidigm,longread,Human,88,29795293,5/26/18,Profiling Human Breast Epithelial Cells Using Single Cell Rna Sequencing Identifies Cell Diversity.
+GSE113196,10X Genomics,shortread,Human,3847,29795293,5/26/18,Profiling Human Breast Epithelial Cells Using Single Cell Rna Sequencing Identifies Cell Diversity.
+GSE113198,Fluidigm,longread,Human,122,29795293,5/26/18,Profiling Human Breast Epithelial Cells Using Single Cell Rna Sequencing Identifies Cell Diversity.
+GSE113415,Fluidigm,longread,Human,183,32699019,7/24/20,Parallel Bimodal Single-Cell Sequencing Of Transcriptome And Chromatin Accessibility.
+GSE113417,Fluidigm,longread,Mouse,175,32699019,7/24/20,Parallel Bimodal Single-Cell Sequencing Of Transcriptome And Chromatin Accessibility.
+GSE113576,10X Genomics,shortread,Mouse,30337,30385464,11/6/18,"Molecular, Spatial, And Functional Single-Cell Profiling Of The Hypothalamic Preoptic Region."
+GSE113616,Nextera XT,shortread,Human,154,31155233,6/4/19,Stromal Microenvironment Shapes The Intratumoral Architecture Of Pancreatic Cancer.
+GSE113807,Smart-Seq,longread,Mouse,307,29899446,6/15/18,Induction And Transcriptional Regulation Of The Co-Inhibitory Gene Module In T Cells.
+GSE113854,10X Genomics,shortread,Mouse,21687,30737373,2/10/19,Single-Cell Analysis Reveals Fibroblast Heterogeneity And Myeloid-Derived Adipocyte Progenitors In Murine Skin Wounds.
+GSE113973,Smart-Seq,longread,Mouse;Human,1707,30420755,11/14/18,Disease-Specific Oligodendrocyte Lineage Cells Arise In Multiple Sclerosis.
+GSE114156,InDrops,shortread,Human,4067,29980650,7/8/18,Single-Cell Transcriptomics Of A Human Kidney Allograft Biopsy Specimen Defines A Diverse Inflammatory Response.
+GSE114157,Smart-Seq,longread,Mouse,119,30865901,3/14/19,Insights Into The Biology Of Hearing And Deafness Revealed By Single-Cell Rna Sequencing.
+GSE114161,CEL-seq,shortread,Human,270,30127440,8/22/18,Single-Cell Analysis Reveals That Stochasticity And Paracrine Signaling Control Interferon-Alpha Production By Plasmacytoid Dendritic Cells.
+GSE114396,10X Genomics,shortread,Human,3993,31263279,7/3/19,C-Kit-Positive Ilc2S Exhibit An Ilc3-Like Signature That May Contribute To Il-17-Mediated Pathologies.
+GSE114446,TruSeq,shortread,Human,31,32362655,5/5/20,Integrated Single-Cell And Bulk Gene Expression And Atac-Seq Reveals Heterogeneity And Early Changes In Pathways Associated With Resistance To Cetuximab In Hnscc-Sensitive Cell Lines.
+GSE114530,10X Genomics,shortread,Human,23953,30789893,2/23/19,Single-Cell Transcriptomics Reveals Gene Expression Dynamics Of Human Fetal Kidney Development.
+GSE114687,10X Genomics,shortread,Human,69657,31477929,9/4/19,A Pooled Single-Cell Genetic Screen Identifies Regulatory Checkpoints In The Continuum Of The Epithelial-To-Mesenchymal Transition.
+GSE114704,Fluidigm,longread,Mouse;Human,64,32499301,6/6/20,Discovery Of New Targets To Control Metastasis In Pancreatic Cancer By Single-Cell Transcriptomics Analysis Of Circulating Tumor Cells.
+GSE114727,10X Genomics,shortread,Human,26735,29961579,7/3/18,Single-Cell Map Of Diverse Immune Phenotypes In The Breast Tumor Microenvironment.
+GSE114793,10X Genomics,shortread,Mouse,3299,29899037,6/15/18,Dissection Of Progenitor Compartments Resolves Developmental Trajectories In B-Lymphopoiesis.
+GSE114822,Unknown,shortread,Mouse;Human,208,30560925,12/19/18,"Integrative Single-Cell Analysis Of Transcriptome, Dna Methylome And Chromatin Accessibility In Mouse Oocytes."
+GSE114986,10X Genomics,shortread,Drosphilia,5492,31566561,10/1/19,"Coopted Temporal Patterning Governs Cellular Hierarchy, Heterogeneity And Metabolism In "
+GSE114997,Smart-Seq,longread,Mouse,210,30078709,8/7/18,Sensory Neuron Diversity In The Inner Ear Is Shaped By Activity.
+GSE115006,10X Genomics,shortread,Human,7922,29967419,7/4/18,Human In Vivo-Generated Monocyte-Derived Dendritic Cells And Macrophages Cross-Present Antigens Through A Vacuolar Pathway.
+GSE115007,10X Genomics,shortread,Human,5737,29967419,7/4/18,Human In Vivo-Generated Monocyte-Derived Dendritic Cells And Macrophages Cross-Present Antigens Through A Vacuolar Pathway.
+GSE115125,InDrops,shortread,Mouse,1535,29434354,2/13/18,Single-Cell Gene Expression Reveals A Landscape Of Regulatory T Cell Phenotypes Shaped By The Tcr.
+GSE115149,10X Genomics,shortread,Human,4774,30679801,1/27/19,Inflammation-Induced Glycolytic Switch Controls Suppressivity Of Mesenchymal Stem Cells Via Stat1 Glycosylation.
+GSE115189,10X Genomics,shortread,Human,3144,30228881,1/5/19,Comparison Of Clustering Tools In R For Medium-Sized 10X Genomics Single-Cell Rna-Sequencing Data.
+GSE115214,Smart-Seq,longread,Human,264,30827679,3/5/19,Lineage Tracing In Humans Enabled By Mitochondrial Mutations And Single-Cell Genomics.
+GSE115280,Drop-seq,shortread,Unknown,177,30143032,8/26/18,Comparative Transcriptomic Analyses And Single-Cell Rna Sequencing Of The Freshwater Planarian Schmidtea Mediterranea Identify Major Cell Types And Pathway Conservation.
+GSE115469,10X Genomics,shortread,Human,8138,30348985,10/24/18,Single Cell Rna Sequencing Of Human Liver Reveals Distinct Intrahepatic Macrophage Populations.
+GSE115600,10X Genomics,shortread,Mouse,3808,30827680,3/5/19,Quiescence Modulates Stem Cell Maintenance And Regenerative Capacity In The Aging Brain.
+GSE115622,Nextera XT,longread,Mouse,119,30827680,3/5/19,Quiescence Modulates Stem Cell Maintenance And Regenerative Capacity In The Aging Brain.
+GSE115861,CEL-seq2,shortread,Human,31,30728416,2/8/19,Combined Quantification Of Intracellular (Phospho-)Proteins And Transcriptomics From Fixed Single Cells.
+GSE115934,Fluidigm,longread,Mouse,106,30455179,11/21/18,Characterization Of Spatial And Temporal Development Of Type I And Type Ii Hair Cells In The Mouse Utricle Using New Cell-Type-Specific Markers.
+GSE115943,10X Genomics,shortread,Mouse,209264,30712874,2/5/19,Optimal-Transport Analysis Of Single-Cell Gene Expression Identifies Developmental Trajectories In Reprogramming.
+GSE115978,Smart-Seq,longread,Mouse;Human,6902,30388455,11/6/18,A Cancer Cell Program Promotes T Cell Exclusion And Resistance To Checkpoint Blockade.
+GSE115997,Smart-Seq,longread,Mouse,61,32350740,5/1/20,Integrative Analysis Of In Vivo Recording With Single-Cell Rna-Seq Data Reveals Molecular Properties Of Light-Sensitive Neurons In Mouse V1.
+GSE116106,10X Genomics,shortread,Mouse;Human,39004,32386599,5/11/20,Single-Cell Analysis Of Human Retina Identifies Evolutionarily Conserved And Species-Specific Mechanisms Controlling Development.
+GSE116113,10X Genomics,shortread,Human,6984,30361550,10/27/18,Expansion And Differentiation Of Human Hepatocyte-Derived Liver Progenitor-Like Cells And Their Use For The Study Of Hepatotropic Pathogens.
+GSE116222,10X Genomics,shortread,Human,7017,30814735,3/1/19,Colonic Epithelial Cell Diversity In Health And Inflammatory Bowel Disease.
+GSE116256,Seq-Well,shortread,Human,36321,30827681,3/5/19,Single-Cell Rna-Seq Reveals Aml Hierarchies Relevant To Disease Progression And Immunity.
+GSE116481,10X Genomics,shortread,Human,3583,30420752,11/14/18,Venetoclax With Azacitidine Disrupts Energy Metabolism And Targets Leukemia Stem Cells In Patients With Acute Myeloid Leukemia.
+GSE116530,Smart-Seq,longread,Mouse,2605,32367048,5/6/20,Differentiation Of Transplanted Haematopoietic Stem Cells Tracked By Single-Cell Transcriptomic Analysis.
+GSE116555,10X Genomics,shortread,Human,4958,29986945,7/11/18,Large-Scale Single-Cell Rna-Seq Reveals Molecular Signatures Of Heterogeneous Populations Of Human Induced Pluripotent Stem Cell-Derived Endothelial Cells.
+GSE117156,MARS-seq,shortread,Human,23954,30523328,12/14/18,Single Cell Dissection Of Plasma Cell Heterogeneity In Symptomatic And Asymptomatic Myeloma.
+GSE117218,Unknown,shortread,Human;Chimpanzee,151,30154223,8/30/18,Single-Cell Rna-Sequencing Reveals The Existence Of Naive And Primed Pluripotency In Pre-Implantation Rhesus Monkey Embryos.
+GSE117225,Smart-Seq,longread,Mouse,174,30827895,3/5/19,Rate Of Progression Through A Continuum Of Transit-Amplifying Progenitor Cell States Regulates Blood Cell Production.
+GSE117228,Smart-Seq,longread,Mouse,89,30827895,3/5/19,Rate Of Progression Through A Continuum Of Transit-Amplifying Progenitor Cell States Regulates Blood Cell Production.
+GSE117231,Smart-Seq,longread,Mouse;Human,535,30827895,3/5/19,Rate Of Progression Through A Continuum Of Transit-Amplifying Progenitor Cell States Regulates Blood Cell Production.
+GSE117295,Drop-seq,shortread,Mouse,60541,32066983,2/19/20,Spatiotemporal Single-Cell Analysis Of Gene Expression In The Mouse Suprachiasmatic Nucleus.
+GSE117403,10X Genomics,shortread,Human,135365,30566875,12/20/18,A Cellular Anatomy Of The Normal Adult Human Prostate And Prostatic Urethra.
+GSE117570,10X Genomics,shortread,Human,10830,31033233,4/30/19,Dissecting Intratumoral Myeloid Cell Plasticity By Single Cell Rna-Seq.
+GSE117617,CEL-seq,shortread,Human,349,30096152,8/11/18,Scpipe: A Flexible R/Bioconductor Preprocessing Pipeline For Single-Cell Rna-Sequencing Data.
+GSE117618,CEL-seq,shortread,Human,352,30096152,8/11/18,Scpipe: A Flexible R/Bioconductor Preprocessing Pipeline For Single-Cell Rna-Sequencing Data.
+GSE117790,10X Genomics,shortread,Mouse,4990,31216470,6/20/19,Rational Reprogramming Of Cellular States By Combinatorial Perturbation.
+GSE117792,10X Genomics,shortread,Mouse,5454,31216470,6/20/19,Rational Reprogramming Of Cellular States By Combinatorial Perturbation.
+GSE117793,10X Genomics,shortread,Mouse,6392,31216470,6/20/19,Rational Reprogramming Of Cellular States By Combinatorial Perturbation.
+GSE117794,10X Genomics,shortread,Mouse,4659,31216470,6/20/19,Rational Reprogramming Of Cellular States By Combinatorial Perturbation.
+GSE117837,Fluidigm,longread,Human,342,31068579,5/10/19,Single Cell Transcriptomic Analysis Of Human Mesenchymal Stem Cells Reveals Limited Heterogeneity.
+GSE117872,Fluidigm,longread,Human,1231,30467425,11/24/18,Longitudinal Single-Cell Rna Sequencing Of Patient-Derived Primary Cells Reveals Drug-Induced Infidelity In Stem Cell Hierarchy.
+GSE117988,10X Genomics,shortread,Human,9790,30250229,9/27/18,Acquired Cancer Resistance To Combination Immunotherapy From Transcriptional Loss Of Class I Hla.
+GSE118055,10X Genomics,shortread,Mouse,2029,30154153,8/30/18,Transcription Factor Prox1 Suppresses Notch Pathway Activation Via The Nucleosome Remodeling And Deacetylase Complex In Colorectal Cancer Stem-Like Cells.
+GSE118068,10X Genomics,shortread,Mouse;Human,59258,31043743,5/3/19,Childhood Cerebellar Tumours Mirror Conserved Fetal Transcriptional Programs.
+GSE118127,10X Genomics,shortread,Human,49717,31320652,7/20/19,Single-Cell Reconstruction Of Follicular Remodeling In The Human Adult Ovary.
+GSE118184,10X Genomics,shortread,Mouse;Human,150422,30449713,11/20/18,Comparative Analysis And Refinement Of Human Psc-Derived Kidney Organoid Differentiation With Single-Cell Transcriptomics.
+GSE118234,Fluidigm,longread,Mouse,1226,32084387,2/23/20,High-Resolution Dissection Of Chemical Reprogramming From Mouse Embryonic Fibroblasts Into Fibrocartilaginous Cells.
+GSE118257,10X Genomics,shortread,Mouse;Human,17096,30747918,2/13/19,Altered Human Oligodendrocyte Heterogeneity In Multiple Sclerosis.
+GSE118292,10X Genomics,shortread,Mouse,18372,30765463,2/16/19,The Transcription Factor Duxbl Mediates Elimination Of Pre-T Cells That Fail Œí-Selection.
+GSE118403,Smart-Seq,longread,Mouse,78,32066983,2/19/20,Spatiotemporal Single-Cell Analysis Of Gene Expression In The Mouse Suprachiasmatic Nucleus.
+GSE118487,10X Genomics,shortread,Human,6743,32792525,8/15/20,Cellular And Molecular Properties Of Neural Progenitors In The Developing Mammalian Hypothalamus.
+GSE118546,10X Genomics,shortread,Mouse;Human,125426,30712875,2/5/19,Molecular Classification And Comparative Taxonomics Of Foveal And Peripheral Cells In Primate Retina.
+GSE118704,CEL-seq,shortread,Human,312,30096152,8/11/18,Scpipe: A Flexible R/Bioconductor Preprocessing Pipeline For Single-Cell Rna-Sequencing Data.
+GSE118706,CEL-seq,shortread,Human,3562,30096152,8/11/18,Scpipe: A Flexible R/Bioconductor Preprocessing Pipeline For Single-Cell Rna-Sequencing Data.
+GSE118734,Smart-Seq,longread,Human,594,30245212,9/25/18,Reproducibility Of Molecular Phenotypes After Long-Term Differentiation To¬†Human Ipsc-Derived Neurons: A Multi-Site Omics Study.
+GSE118828,Nextera XT,shortread,Human,1792,30383866,11/2/18,Identification Of Grade And Origin Specific Cell Populations In Serous Epithelial Ovarian Cancer By Single Cell Rna-Seq.
+GSE118852,10X Genomics,shortread,Mouse;Human,97549,30712875,2/5/19,Molecular Classification And Comparative Taxonomics Of Foveal And Peripheral Cells In Primate Retina.
+GSE118953,Fluidigm,longread,Mouse,2542,31073041,5/11/19,Temporal Patterning Of Apical Progenitors And Their Daughter Neurons In The Developing Neocortex.
+GSE119352,10X Genomics,shortread,Mouse,14066,30445041,11/18/18,High-Dimensional Analysis Delineates Myeloid And Lymphoid Compartment Remodeling During Successful Immune-Checkpoint Cancer Therapy.
+GSE119373,10X Genomics,shortread,Human,2896,30397350,11/7/18,Human retinoic acid-regulated CD161 + regulatory T cells support wound repair in intestinal mucosa
+GSE119455,Fluidigm,longread,Human,893,30463022,11/22/18,"Single-Cell Transcriptome Analysis Reveals Estrogen Signaling Coordinately Augments One-Carbon, Polyamine, And Purine Synthesis In Breast Cancer."
+GSE119506,10X Genomics,shortread,Human,1616,31072818,5/11/19,Human Lymphoid Organ Cdc2 And Macrophages Play Complementary Roles In T Follicular Helper Responses.
+GSE119507,10X Genomics,shortread,Human,3993,31072818,5/11/19,Human Lymphoid Organ Cdc2 And Macrophages Play Complementary Roles In T Follicular Helper Responses.
+GSE119531,10X Genomics,shortread,Mouse,8583,30510133,12/5/18,Advantages Of Single-Nucleus Over Single-Cell Rna Sequencing Of Adult Kidney: Rare Cell Types And Novel Cell States Revealed In Fibrosis.
+GSE119766,Fluidigm,longread,Mouse,614,30893600,3/21/19,Dissecting Cell Lineage Specification And Sex Fate Determination In Gonadal Somatic Cells Using Single-Cell Transcriptomics.
+GSE119893,Fluidigm,longread,Human,1861,30548510,12/15/18,Deconstructing Retinal Organoids: Single Cell Rna-Seq Reveals The Cellular Components Of Human Pluripotent Stem Cell-Derived Retina.
+GSE119926,Smart-Seq,longread,Human,7467,31341285,7/26/19,Resolving Medulloblastoma Cellular Architecture By Single-Cell Genomics.
+GSE119945,sci-RNA-seq3,shortread,Mouse;Human,1967482,30787437,2/23/19,The Single-Cell Transcriptional Landscape Of Mammalian Organogenesis.
+GSE120046,Unknown,shortread,Mouse;Human,13252,32923614,9/15/20,Single-Cell Transcriptome Analysis Reveals Cell Lineage Specification In Temporal-Spatial Patterns In Human Cortical Development.
+GSE120064,Nextera XT,shortread,Mouse,846,32098504,2/27/20,Single-Cell Reconstruction Of Progression Trajectory Reveals Intervention Principles In Pathological Cardiac Hypertrophy.
+GSE120372,10X Genomics,shortread,Mouse,9265,30735127,2/9/19,Specification Of Diverse Cell Types During Early Neurogenesis Of The Mouse Cerebellum.
+GSE120410,10X Genomics,shortread,Mouse,12473,30335147,10/20/18,Single-Cell Rna Sequencing Reveals Novel Markers Of Male Pituitary Stem Cells And Hormone-Producing Cell Types.
+GSE120506,10X Genomics,shortread,Human,1217,30315278,10/14/18,The Adult Human Testis Transcriptional Cell Atlas.
+GSE120508,10X Genomics,shortread,Human,6110,31950241,1/18/20,Evaluating Genetic Causes Of Azoospermia: What Can We Learn From A Complex Cellular Structure And Single-Cell Transcriptomics Of The Human Testis?
+GSE120575,Smart-Seq,longread,Human,15230,30633907,1/12/19,Defining T Cell States Associated With Response To Checkpoint Immunotherapy In Melanoma.
+GSE120629,Fluidigm,longread,Mouse,414,30760929,2/15/19,Spatial And Temporal Heterogeneity Of Mouse And Human Microglia At Single-Cell Resolution.
+GSE120716,10X Genomics,shortread,Human,30904,30566875,12/20/18,A Cellular Anatomy Of The Normal Adult Human Prostate And Prostatic Urethra.
+GSE120744,Smart-Seq,longread,Mouse,1627,30760929,2/15/19,Spatial And Temporal Heterogeneity Of Mouse And Human Microglia At Single-Cell Resolution.
+GSE120745,Smart-Seq,longread,Mouse,2268,30760929,2/15/19,Spatial And Temporal Heterogeneity Of Mouse And Human Microglia At Single-Cell Resolution.
+GSE120909,Fluidigm,longread,Mouse,1732,30389797,11/6/18,
+GSE120960,10X Genomics,shortread,Mouse,6076,30655503,1/19/19,Setd5 Haploinsufficiency Alters Neuronal Network Connectivity And Leads To Autistic-Like Behaviors In Mice.
+GSE120966,10X Genomics,shortread,Mouse,7208,31474569,9/3/19,Single-Cell Transcriptomics In Medulloblastoma Reveals Tumor-Initiating Progenitors And Oncogenic Cascades During Tumorigenesis And Relapse.
+GSE120974,10X Genomics,shortread,Mouse,7208,31474569,9/3/19,Single-Cell Transcriptomics In Medulloblastoma Reveals Tumor-Initiating Progenitors And Oncogenic Cascades During Tumorigenesis And Relapse.
+GSE121069,Smart-Seq,longread,Mouse;Human,50,30540963,12/13/18,Axon-Seq Decodes The Motor Axon Transcriptome And Its Modulation In Response To Als.
+GSE121265,Fluidigm,longread,Human,1386,32312741,4/22/20,Characterizing And Inferring Quantitative Cell Cycle Phase In Single-Cell Rna-Seq Data Analysis.
+GSE121380,10X Genomics,shortread,Human,43212,31730855,11/16/19,Mucosal Profiling Of Pediatric-Onset Colitis And Ibd Reveals Common Pathogenics And Therapeutic Pathways.
+GSE121393,Nextera XT,longread,Mouse;Human,5941,30575716,12/24/18,Molecular And Functional Heterogeneity Of Il-10-Producing Cd4
+GSE121579,Fluidigm,longread,Human,60,30503262,12/7/18,"Transcription Factor Levels After Forward Programming Of Human Pluripotent Stem Cells With Gata1, Fli1, And Tal1 Determine Megakaryocyte Versus Erythroid Cell Fate Decision."
+GSE121650,Smart-Seq,longread,Mouse,702,31827285,12/13/19,Multi-Omics Profiling Of Mouse Gastrulation At Single-Cell Resolution.
+GSE121654,10X Genomics,shortread,Mouse,105725,30471926,11/26/18,Single-Cell Rna Sequencing Of Microglia Throughout The Mouse Lifespan And In The Injured Brain Reveals Complex Cell-State Changes.
+GSE121862,Nextera XT,shortread,Human,16180,31249312,6/30/19,A Single-Nucleus Rna-Sequencing Pipeline To Decipher The Molecular Anatomy And Pathophysiology Of Human Kidneys.
+GSE121891,10X Genomics,shortread,Mouse,40804,30517858,12/6/18,Single-Cell Rna-Seq Of Mouse Olfactory Bulb Reveals Cellular Heterogeneity And Activity-Dependent Molecular Census Of Adult-Born Neurons.
+GSE121893,Nextera XT,shortread,Human,4778,31915373,1/10/20,Single-Cell Reconstruction Of The Adult Human Heart During Heart Failure And Recovery Reveals The Cellular Landscape Underlying Cardiac Function.
+GSE121904,10X Genomics,shortread,Mouse,15150,30893341,3/21/19,Dynamic Transcriptome Profiles Within Spermatogonial And Spermatocyte Populations During Postnatal Testis Maturation Revealed By Single-Cell Sequencing.
+GSE121937,CEL-seq,shortread,Mouse,2183,31804471,12/6/19,Heterogeneity And Dynamics Of Active Kras-Induced Dysplastic Lineages From Mouse Corpus Stomach.
+GSE121940,CEL-seq,shortread,Mouse,5438,31804471,12/6/19,Heterogeneity And Dynamics Of Active Kras-Induced Dysplastic Lineages From Mouse Corpus Stomach.
+GSE121957,Fluidigm,longread,Mouse,546,30418965,11/13/18,Single-Cell Rna-Sequencing Reveals Transcriptional Dynamics Of Estrogen-Induced Dysplasia In The Ovarian Surface Epithelium.
+GSE122009,10X Genomics,shortread,Mouse,25149,32459995,5/28/20,A Multiplexed Barcodelet Single-Cell Rna-Seq Approach Elucidates Combinatorial Signaling Pathways That Drive Esc Differentiation.
+GSE122012,10X Genomics,shortread,Mouse,6745,30872278,3/16/19,Defining Developmental Diversification Of Diencephalon Neurons Through Single Cell Gene Expression Profiling.
+GSE122026,CEL-seq,shortread,Mouse,1726,30595537,1/1/19,Dermal Condensate Niche Fate Specification Occurs Prior To Formation And Is Placode Progenitor Dependent.
+GSE122198,Nextera XT,shortread,Human,2622,30765193,2/16/19,Unravelling Intratumoral Heterogeneity Through High-Sensitivity Single-Cell Mutational Analysis And Parallel Rna Sequencing.
+GSE122403,10X Genomics,shortread,Mouse,10319,31142541,5/31/19,Single Cell Expression Analysis Reveals Anatomical And Cell Cycle-Dependent Transcriptional Shifts During Heart Development.
+GSE122466,10X Genomics,shortread,Mouse,5060,31399471,8/11/19,Single-Cell Transcriptional Logic Of Cell-Fate Specification And Axon Guidance In Early-Born Retinal Neurons.
+GSE122675,10X Genomics,shortread,Mouse,11578,30778252,2/20/19,Subsets of exhausted CD8+ T cells differentially mediate tumor control and respond to checkpoint blockade
+GSE122712,10X Genomics,shortread,Mouse,8490,30778252,2/20/19,Subsets Of Exhausted Cd8
+GSE122730,10X Genomics,shortread,Mouse,8981,30728335,2/8/19,Cxcr3-Expressing Leukocytes Are Necessary For Neurofibroma Formation In Mice.
+GSE122743,10X Genomics,shortread,Human,44434,31477698,9/4/19,Single-Cell Transcriptomics Reveals Multi-Step Adaptations To Endocrine Therapy.
+GSE122817,Smart-Seq,longread,Mouse,178,32259486,4/8/20,Defining The Design Principles Of Skin Epidermis Postnatal Growth.
+GSE122843,CEL-seq,shortread,Mouse,1396,31222014,6/22/19,Targeting Enhancer Switching Overcomes Non-Genetic Drug Resistance In Acute Myeloid Leukaemia.
+GSE122846,10X Genomics,shortread,Human,1750,30664737,1/22/19,Memory Cd4
+GSE122969,Smart-Seq,longread,Mouse,5151,30635236,1/13/19,Checkpoint Blockade Immunotherapy Induces Dynamic Changes In Pd-1
+GSE122970,10X Genomics,shortread,Mouse;Human,7237,32386599,5/11/20,Single-Cell Analysis Of Human Retina Identifies Evolutionarily Conserved And Species-Specific Mechanisms Controlling Development.
+GSE123022,Smart-Seq,longread,Mouse,346,30606613,1/5/19,Developmental Heterogeneity Of Microglia And Brain Myeloid Cells Revealed By Deep Single-Cell Rna Sequencing.
+GSE123024,Smart-Seq,longread,Mouse,133,30606613,1/5/19,Developmental Heterogeneity Of Microglia And Brain Myeloid Cells Revealed By Deep Single-Cell Rna Sequencing.
+GSE123025,Smart-Seq,longread,Mouse,1797,30606613,1/5/19,Developmental Heterogeneity Of Microglia And Brain Myeloid Cells Revealed By Deep Single-Cell Rna Sequencing.
+GSE123046,10X Genomics,shortread,Mouse,161415,30959515,4/9/19,The Emergent Landscape Of The Mouse Gut Endoderm At Single-Cell Resolution.
+GSE123067,10X Genomics,shortread,Mouse,55541,30643267,1/16/19,Thymic Regulatory T Cells Arise Via Two Distinct Developmental Programs.
+GSE123078,10X Genomics,shortread,Mouse,1698,30971824,4/12/19,The Bone Marrow Microenvironment At Single-Cell Resolution.
+GSE123139,MARS-seq,shortread,Human,33770,32359441,5/4/20,"Dysfunctional Cd8¬†T Cells Form A Proliferative, Dynamically Regulated Compartment Within Human Melanoma."
+GSE123476,Fluidigm,longread,Human,80,28111004,1/24/17,Single Cell Sequencing Reveals Heterogeneity Within Ovarian Cancer Epithelium And Cancer Associated Stromal Cells.
+GSE123515,Fluidigm,longread,Mouse,149,31019301,4/26/19,Single-Cell Transcriptomes Of The Regenerating Intestine Reveal A Revival Stem Cell.
+GSE123813,10X Genomics,shortread,Human,73587,31359002,7/31/19,Clonal Replacement Of Tumor-Specific T Cells Following Pd-1 Blockade.
+GSE123899,Fluidigm,longread,Human,439,32699019,7/24/20,Parallel Bimodal Single-Cell Sequencing Of Transcriptome And Chromatin Accessibility.
+GSE123904,10X Genomics,shortread,Mouse;Human,96700,32042191,2/12/20,Regenerative Lineages And Immune-Mediated Pruning In Lung Cancer Metastasis.
+GSE123926,10X Genomics,shortread,Human,32895,30770823,2/17/19,Barcoding Reveals Complex Clonal Behavior In Patient-Derived Xenografts Of Metastatic Triple Negative Breast Cancer.
+GSE124172,10X Genomics,shortread,Mouse;Human;Zebrafish,36998,31907413,1/8/20,Multipotent Rag1+ Progenitors Emerge Directly From Haemogenic Endothelium In Human Pluripotent Stem Cell-Derived Haematopoietic Organoids.
+GSE124174,10X Genomics,shortread,Human,12415,30886407,3/20/19,Cerebral Organoids At The Air-Liquid Interface Generate Diverse Nerve Tracts With Functional Output.
+GSE124263,10X Genomics,shortread,Human,4461,30726734,2/7/19,The Neonatal And Adult Human Testis Defined At The Single-Cell Level.
+GSE124299,Fluidigm,longread,Human;Chimpanzee,21137,30735633,2/9/19,Establishing Cerebral Organoids As Models Of Human-Specific Brain Evolution.
+GSE124312,10X Genomics,shortread,Mouse,1668,31116992,5/23/19,An Atlas Of Vagal Sensory Neurons And Their Molecular Specialization.
+GSE124334,10X Genomics,shortread,Human,6383,30949159,4/6/19,Single-Cell Transcriptome Analysis Of Cd34
+GSE124454,Fluidigm,longread,Mouse,45,27131741,5/2/16,Heterogeneity Of Mesp1+ Mesoderm Revealed By Single-Cell Rna-Seq.
+GSE124742,Smart-Seq,longread,Human,4842,32302527,4/18/20,Patch-Seq Links Single-Cell Transcriptomes To Human Islet Dysfunction In Diabetes.
+GSE124872,Nextera XT,shortread,Mouse,11818,30814501,3/1/19,An Atlas Of The Aging Lung Mapped By Single Cell Transcriptomics And Deep Tissue Proteomics.
+GSE124887,10X Genomics,shortread,Human,3269,31308046,7/17/19,Set Domain-Containing Protein 4 Epigenetically Controls Breast Cancer Stem Cell Quiescence.
+GSE124888,10X Genomics,shortread,Mouse;Human,3490,31308046,7/17/19,Set Domain-Containing Protein 4 Epigenetically Controls Breast Cancer Stem Cell Quiescence.
+GSE124904,10X Genomics,shortread,Mouse,9232,31243281,6/28/19,Developmental Kinetics And Transcriptome Dynamics Of Stem Cell Specification In The Spermatogenic Lineage.
+GSE125269,10X Genomics,shortread,Mouse,6026,31573981,10/2/19,Low- And High-Thermogenic Brown Adipocyte Subpopulations Coexist In Murine Adipose Tissue.
+GSE125449,10X Genomics,shortread,Human,8891,31588021,10/8/19,Tumor Cell Biodiversity Drives Microenvironmental Reprogramming In Liver Cancer.
+GSE125527,10X Genomics,shortread,Human,78560,32826341,8/23/20,Heterogeneity And Clonal Relationships Of Adaptive Immune Cells In Ulcerative Colitis Revealed By Single-Cell Analyses.
+GSE125881,10X Genomics,shortread,Human,55654,31924795,1/12/20,Clonal Kinetics And Single-Cell Transcriptional Profiling Of Car-T Cells In Patients Undergoing Cd19 Car-T Immunotherapy.
+GSE125970,10X Genomics,shortread,Mouse;Human,4195,31753849,11/23/19,Single-Cell Transcriptome Analysis Reveals Differential Nutrient Absorption Functions In Human Intestine.
+GSE126022,10X Genomics,shortread,Mouse;Human,6487,30982595,4/16/19,Human Pluripotency Is Initiated And Preserved By A Unique Subset Of Founder Cells.
+GSE126111,Drop-seq,shortread,Human,2281,31270426,7/5/19,An Optimised Tissue Disaggregation And Data Processing Pipeline For Characterising Fibroblast Phenotypes Using Single-Cell Rna Sequencing.
+GSE126128,10X Genomics,shortread,Mouse,55818,31341279,7/26/19,Single-Cell Analysis Of Cardiogenesis Reveals Basis For Organ-Level Developmental Defects.
+GSE126388,10X Genomics,shortread,Mouse,4133,30799483,2/26/19,Superct: A Supervised-Learning Framework For Enhanced Characterization Of Single-Cell Transcriptomic Profiles.
+GSE126480,10X Genomics,shortread,Mouse,5953,31420539,8/20/19,Single Cell Transcriptome Analysis Of Developing Arcuate Nucleus Neurons Uncovers Their Key Developmental Regulators.
+GSE126819,Smart-Seq,longread,Mouse,621,31399471,8/11/19,Single-Cell Transcriptional Logic Of Cell-Fate Specification And Axon Guidance In Early-Born Retinal Neurons.
+GSE126906,CEL-seq,shortread,Human,4526,30096152,8/11/18,Scpipe: A Flexible R/Bioconductor Preprocessing Pipeline For Single-Cell Rna-Sequencing Data.
+GSE127005,InDrops,shortread,Mouse,4999,31053654,5/6/19,Distinct Immunocyte-Promoting And Adipocyte-Generating Stromal Components Coordinate Adipose Tissue Immune And Metabolic Tenors.
+GSE127235,Fluidigm,longread,Mouse,602,30846559,3/9/19,Single-Cell Rna Profiling Of Glomerular Cells Shows Dynamic Changes In Experimental Diabetic Kidney Disease.
+GSE127471,10X Genomics,shortread,Human,1027,31061481,5/8/19,Determining Cell Type Abundance And Expression From Bulk Tissues With Digital Cytometry.
+GSE127472,10X Genomics,shortread,Human,1394,31061481,5/8/19,Determining Cell Type Abundance And Expression From Bulk Tissues With Digital Cytometry.
+GSE127683,Nextera XT,shortread,Mouse;Human,54,31033441,4/30/19,Transcriptomic And Epigenetic Regulation Of Hair Cell Regeneration In The Mouse Utricle And Its Potentiation By Atoh1.
+GSE127774,10X Genomics,shortread,Human;Chimpanzee,643184,32424074,5/20/20,"Single-Cell-Resolution Transcriptome Map Of Human, Chimpanzee, Bonobo, And Macaque Brains."
+GSE128003,Nextera XT,shortread,Mouse,173,33078414,10/21/20,Single-Cell Molecular Profiling Provides A High-Resolution Map Of Basophil And Mast Cell Development.
+GSE128074,Nextera XT,shortread,Mouse,90,33078414,10/21/20,Single-Cell Molecular Profiling Provides A High-Resolution Map Of Basophil And Mast Cell Development.
+GSE128147,Nextera XT,shortread,Mouse;Human,114,31448339,8/27/19,Single-Cell Transcriptome Analysis Of Cd8 
+GSE128423,10X Genomics,shortread,Mouse,92341,31130381,5/28/19,A Cellular Taxonomy Of The Bone Marrow Stroma In Homeostasis And Leukemia.
+GSE128531,10X Genomics,shortread,Human,29611,31010835,4/24/19,Single-Cell Lymphocyte Heterogeneity In Advanced Cutaneous T-Cell Lymphoma Skin Tumors.
+GSE128553,10X Genomics,shortread,Mouse,18094,32367190,5/6/20,Dissecting The Initiation Of Female Meiosis In The Mouse At Single-Cell Resolution.
+GSE128639,10X Genomics,longread,Human,30087,31178118,6/11/19,Comprehensive Integration Of Single-Cell Data.
+GSE128691,Smart-Seq,longread,Mouse,65,31466525,8/31/19,Light-Induced Injury In Mouse Embryos Revealed By Single-Cell Rna Sequencing.
+GSE128759,Clontech SMRTr,shortread,Mouse,33,32822583,8/22/20,Single-Cell Analysis Of Neonatal Hsc Ontogeny Reveals Gradual And Uncoordinated Transcriptional Reprogramming That Begins Before Birth.
+GSE128761,10X Genomics,shortread,Mouse,130725,32822583,8/22/20,Single-Cell Analysis Of Neonatal Hsc Ontogeny Reveals Gradual And Uncoordinated Transcriptional Reprogramming That Begins Before Birth.
+GSE128854,10X Genomics,shortread,Mouse,53473,31061494,5/8/19,A Single-Cell Atlas Of Mouse Brain Macrophages Reveals Unique Transcriptional Identities Shaped By Ontogeny And Tissue Environment.
+GSE128879,10X Genomics,shortread,Human,2717,32457298,5/28/20,Single Cell Transcriptomics Reveals Opioid Usage Evokes Widespread Suppression Of Antiviral Gene Program.
+GSE128892,10X Genomics,shortread,Mouse;Human,2303,,,
+GSE128934,Nextera XT,shortread,Mouse,7604,31693907,11/7/19,Doubletdecon: Deconvoluting Doublets From Single-Cell Rna-Sequencing Data.
+GSE129087,10X Genomics,shortread,Mouse,4497,31142839,5/31/19,Distinct Fibroblast Subsets Drive Inflammation And Damage In Arthritis.
+GSE129096,Drop-seq,shortread,Human,65967,32001747,2/1/20,Systematic Comparison Of High-Throughput Single-Cell And Single-Nucleus Transcriptomes During Cardiomyocyte Differentiation.
+GSE129150,InDrops,shortread,Mouse,102117,31209379,6/19/19,Sensory Lesioning Induces Microglial Synapse Elimination Via Adam10 And Fractalkine Signaling.
+GSE129256,10X Genomics,longread,Mouse,1328,32444476,5/24/20,IRF5 guides monocytes toward an inflammatory CD11c+ macrophage phenotype and promotes intestinal inflammation
+GSE129363,10X Genomics,shortread,Human,36393,32066997,2/19/20,Single-Cell Analysis Of Human Adipose Tissue Identifies Depot And Disease Specific Cell Types.
+GSE129857,Fluidigm,longread,Mouse,77,33419925,1/10/21,Permissive Selection Followed By Affinity-Based Proliferation Of Gc Light Zone B Cells Dictates Cell Fate And Ensures Clonal Breadth.
+GSE130001,10X Genomics,shortread,Human,3946,32111252,3/1/20,A Reference Profile-Free Deconvolution Method To Infer Cancer Cell-Intrinsic Subtypes And Tumor-Type-Specific Stromal Profiles.
+GSE130019,Fluidigm,longread,Mouse;Human,549,32049009,2/13/20,Transcriptional Programs Define Intratumoral Heterogeneity Of Ewing Sarcoma At Single-Cell Resolution.
+GSE130020,Fluidigm,longread,Human,92,32049009,2/13/20,Transcriptional Programs Define Intratumoral Heterogeneity Of Ewing Sarcoma At Single-Cell Resolution.
+GSE130021,Fluidigm,longread,Human,91,32049009,2/13/20,Transcriptional Programs Define Intratumoral Heterogeneity Of Ewing Sarcoma At Single-Cell Resolution.
+GSE130023,Fluidigm,longread,Mouse;Human,137,32049009,2/13/20,Transcriptional Programs Define Intratumoral Heterogeneity Of Ewing Sarcoma At Single-Cell Resolution.
+GSE130025,Fluidigm,longread,Mouse;Human,20295,32049009,2/13/20,Transcriptional Programs Define Intratumoral Heterogeneity Of Ewing Sarcoma At Single-Cell Resolution.
+GSE130070,10X Genomics,shortread,Human,10671,33037057,10/11/20,Deconvolution Of Monocyte Responses In Inflammatory Bowel Disease Reveals An Il-1 Cytokine Network That Regulates Il-23 In Genetic And Acquired Il-10 Resistance.
+GSE130073,10X Genomics,shortread,Human,3860,31155493,6/4/19,Modeling Steatohepatitis In Humans With Pluripotent Stem Cell-Derived Organoids.
+GSE130148,Nextera XT,shortread,Human,100398,31209336,6/19/19,A Cellular Census Of Human Lungs Identifies Novel Cell States In Health And In Asthma.
+GSE130151,10X Genomics,shortread,Human,3082,31462300,8/30/19,High-Resolution Analysis Of Germ Cells From Men With Sex Chromosomal Aneuploidies Reveals Normal Transcriptome But Impaired Imprinting.
+GSE130212,10X Genomics,shortread,Mouse,18235,32716582,7/28/20,Single-Cell Rna Sequencing Reveals The Landscape Of Early Female Germ Cell Development.
+GSE130318,10X Genomics,shortread,Human,11362,31317052,7/19/19,Single-Cell Rna-Seq Analysis Identifies A Putative Epithelial Stem Cell Population In Human Primary Prostate Cells In Monolayer And Organoid Culture Conditions.
+GSE130430,10X Genomics,shortread,Human,11302,31477722,9/4/19,Heterogeneity Of Human Bone Marrow And Blood Natural Killer Cells Defined By Single-Cell Transcriptome.
+GSE130473,Smart-Seq,longread,Mouse;Human,948,31350390,7/28/19,Single Cell Analysis Of Human Foetal Liver Captures The Transcriptional Profile Of Hepatobiliary Hybrid Progenitors.
+GSE130606,10X Genomics,shortread,Mouse,7317,31118232,5/24/19,Single Cell Analysis Of The Developing Mouse Kidney Provides Deeper Insight Into Marker Gene Expression And Ligand-Receptor Crosstalk.
+GSE130626,10X Genomics,shortread,Mouse,2976,31902528,1/7/20,Trem2 Regulates Microglial Cholesterol Metabolism Upon Chronic Phagocytic Challenge.
+GSE130636,10X Genomics,shortread,Human,8217,31075224,5/11/19,Molecular Characterization Of Foveal Versus Peripheral Human Retina By Single-Cell Rna Sequencing.
+GSE130756,Drop-seq,shortread,Human,371190,32977829,9/27/20,A Single-Cell Survey Of Cellular Hierarchy In Acute Myeloid Leukemia.
+GSE130888,10X Genomics,shortread,Human,91311,31167927,6/7/19,Inhibition Of Hyperglycolysis In Mesothelial Cells Prevents Peritoneal Fibrosis.
+GSE130919,10X Genomics,shortread,Mouse,5434,31522976,9/17/19,Lgr5 And Col22A1 Mark Progenitor Cells In The Lineage Toward Juvenile Articular Chondrocytes.
+GSE130973,10X Genomics,shortread,Human,14854,32327715,4/25/20,Single-Cell Transcriptomes Of The Human Skin Reveal Age-Related Loss Of Fibroblast Priming.
+GSE131038,Nextera XT,shortread,Mouse,1584,31128961,5/28/19,Polychromic Reporter Mice Reveal Unappreciated Innate Lymphoid Cell Progenitor Heterogeneity And Elusive Ilc3 Progenitors In Bone Marrow.
+GSE131181,10X Genomics,shortread,Mouse;Human,85202,31201182,6/16/19,A Cellular Atlas Of
+GSE131365,10X Genomics,shortread,Mouse,1091,31149730,6/1/19,Single-Cell Transcriptomes Of Murine Bone Marrow Stromal Cells Reveal Niche-Associated Heterogeneity.
+GSE131391,CEL-seq,shortread,Human,883,31844660,12/18/19,Characterizing Smoking-Induced Transcriptional Heterogeneity In The Human Bronchial Epithelium At Single-Cell Resolution.
+GSE131498,10X Genomics,shortread,Mouse,15304,32685006,7/21/20,Single-Cell Transcriptome Profiling Reveals Dermal And Epithelial Cell Fate Decisions During Embryonic Hair Follicle Development.
+GSE131535,10X Genomics,shortread,Mouse,8610,31606264,10/14/19,Tcf-1-Centered Transcriptional Network Drives An Effector Versus Exhausted Cd8¬†T Cell-Fate Decision.
+GSE131629,10X Genomics,shortread,Mouse,26500,32194870,3/21/20,Alginate Oligosaccharides Improve Germ Cell Development And Testicular Microenvironment To Rescue Busulfan Disrupted Spermatogenesis.
+GSE131630,10X Genomics,shortread,Mouse,11795,31900405,1/5/20,Single-Cell Rna Sequencing Analysis Reveals Alginate Oligosaccharides Preventing Chemotherapy-Induced Mucositis.
+GSE131734,10X Genomics,shortread,Mouse,2639,31590918,10/9/19,Single-Cell Rna-Seq Analysis Of Mesp1-Induced Skeletal Myogenic Development.
+GSE131776,10X Genomics,shortread,Mouse;Human,24848,31359001,7/31/19,Atheroprotective Roles Of Smooth Muscle Cell Phenotypic Modulation And The Tcf21 Disease Gene As Revealed By Single-Cell Analysis.
+GSE131777,10X Genomics,shortread,Mouse;Human,4798,31359001,7/31/19,Atheroprotective Roles Of Smooth Muscle Cell Phenotypic Modulation And The Tcf21 Disease Gene As Revealed By Single-Cell Analysis.
+GSE131778,10X Genomics,shortread,Mouse;Human,11221,31359001,7/31/19,Atheroprotective Roles Of Smooth Muscle Cell Phenotypic Modulation And The Tcf21 Disease Gene As Revealed By Single-Cell Analysis.
+GSE131907,10X Genomics,shortread,Human,193293,32385277,5/10/20,Single-Cell Rna Sequencing Demonstrates The Molecular And Cellular Reprogramming Of Metastatic Lung Adenocarcinoma.
+GSE131928,Smart-Seq,longread,Human,20785,31327527,7/23/19,"An Integrative Model Of Cellular States, Plasticity, And Genetics For Glioblastoma."
+GSE132042,Smart-Seq,longread,Mouse,298569,32669714,7/15/20,A single-cell transcriptomic atlas characterizes ageing tissues in the mouse
+GSE132080,10X Genomics,shortread,Human,21404,31932729,1/15/20,Titrating Gene Expression Using Libraries Of Systematically Attenuated Crispr Guide Rnas.
+GSE132143,MARS-seq,shortread,Mouse;Human,99,32972203,9/26/20,Single-Cell Rna Sequencing Analysis Reveals A Crucial Role For Cthrc1 (Collagen Triple Helix Repeat Containing 1) Cardiac Fibroblasts After Myocardial Infarction.
+GSE132164,10X Genomics,shortread,Mouse;Human,24381,32923584,9/15/20,Single-Cell Transcriptomics Identifies Multiple Pathways Underlying Antitumor Function Of Tcr- And Cd8ŒëŒ≤-Engineered Human Cd4
+GSE132229,10X Genomics,shortread,Mouse,61546,31843893,12/18/19,Comprehensive Analysis Of A Mouse Model Of Spontaneous Uveoretinitis Using Single-Cell Rna Sequencing.
+GSE132257,10X Genomics,shortread,Human,17040,32451460,5/27/20,Lineage-Dependent Gene Expression Programs Influence The Immune Landscape Of Colorectal Cancer.
+GSE132274,10X Genomics,shortread,Drosphilia,4408,31851941,12/19/19,The Cellular Diversity And Transcription Factor Code Of Drosophila Enteroendocrine Cells.
+GSE132300,10X Genomics,shortread,Human,5704,31332193,7/25/19,Predicting Bacterial Infection Outcomes Using Single Cell Rna-Sequencing Analysis Of Human Immune Cells.
+GSE132364,CEL-seq,shortread,Mouse,5558,31160419,6/5/19,A Transcriptomic Roadmap To Œë- And Œí-Cell Differentiation In The Embryonic Pancreas.
+GSE132465,10X Genomics,shortread,Human,60343,32451460,5/27/20,Lineage-Dependent Gene Expression Programs Influence The Immune Landscape Of Colorectal Cancer.
+GSE132504,10X Genomics,shortread,Mouse,9591,31152001,6/4/19,Neuro-Mesodermal Progenitors (Nmps): A Comparative Study Between Pluripotent Stem Cells And Embryo-Derived Populations.
+GSE132509,10X Genomics,shortread,Human,36071,32415257,5/18/20,Single-Cell Analysis Of Childhood Leukemia Reveals A Link Between Developmental States And Ribosomal Protein Expression As A Source Of Intra-Individual Heterogeneity.
+GSE132573,InDrops,shortread,Mouse,1012,31685531,11/7/19,Developmental And Cellular Age Direct Conversion Of Cd4+ T Cells Into RorŒ≥+ Or Helios+ Colon Treg Cells.
+GSE132608,10X Genomics,shortread,Mouse,10878,32066983,2/19/20,Spatiotemporal Single-Cell Analysis Of Gene Expression In The Mouse Suprachiasmatic Nucleus.
+GSE132642,10X Genomics,shortread,Mouse,74629,31751331,11/22/19,Single-Cell Transcriptomics Of The Naked Mole-Rat Reveals Unexpected Features Of Mammalian Immunity.
+GSE132672,10X Genomics,shortread,Human,402177,31996853,1/31/20,Cell Stress In Cortical Organoids Impairs Molecular Subtype Specification.
+GSE132730,10X Genomics,shortread,Mouse,36778,32499648,6/6/20,Molecular Design Of Hypothalamus Development.
+GSE132757,10X Genomics,shortread,Human,3924,32732423,8/1/20,Allele-Specific Open Chromatin In Human Ipsc Neurons Elucidates Functional Disease Variants.
+GSE132771,10X Genomics,shortread,Mouse;Human,104819,32317643,4/23/20,Collagen-Producing Lung Cell Atlas Identifies Multiple Subsets With Distinct Localization And Relevance To Fibrosis.
+GSE132867,10X Genomics,shortread,Mouse,452,31623513,10/19/19,Transcriptomic And Single-Cell Analysis Of The Murine Parotid Gland.
+GSE132880,10X Genomics,shortread,Mouse,29575,31162546,6/5/19,Single-Cell Transcriptome Analyses Reveal Novel Targets Modulating Cardiac Neovascularization By Resident Endothelial Cells Following Myocardial Infarction.
+GSE133015,10X Genomics,shortread,Mouse,457,31399586,8/11/19,Wwp2 Regulates Pathological Cardiac Fibrosis By Modulating Smad2 Signaling.
+GSE133204,10X Genomics,shortread,Drosphilia,4982,31455604,8/29/19,"Single Cell Transcriptomic Landscapes Of Pattern Formation, Proliferation And Growth In "
+GSE133345,KAPA Hyper Prep Kit,shortread,Human,1166,32499656,6/6/20,Deciphering Human Macrophage Development At Single-Cell Resolution.
+GSE133382,10X Genomics,shortread,Mouse,40056,31784286,12/1/19,Single-Cell Profiles Of Retinal Ganglion Cells Differing In Resilience To Injury Reveal Neuroprotective Genes.
+GSE133449,BD Rhapsody,shortread,Human,6456,31871141,12/25/19,Single-Cell Rna-Seq Analysis Identifies Meniscus Progenitors And Reveals The Progression Of Meniscus Degeneration.
+GSE133486,10X Genomics,shortread,Mouse,81710,31644425,10/24/19,Single Cell Analysis Reveals Immune Cell-Adipocyte Crosstalk Regulating The Transcription Of Thermogenic Adipocytes.
+GSE133531,10X Genomics,shortread,Mouse;Human,6082,31768071,11/27/19,Stalled Developmental Programs At The Root Of Pediatric Brain Tumors.
+GSE133535,10X Genomics,longread,Mouse;Human,17758,32051003,2/14/20,Robustness And Applicability Of Transcription Factor And Pathway Analysis Tools On Single-Cell Rna-Seq Data.
+GSE133540,Smart-Seq,longread,Mouse;Human,5472,32051003,2/14/20,Robustness And Applicability Of Transcription Factor And Pathway Analysis Tools On Single-Cell Rna-Seq Data.
+GSE133689,Smart-Seq,longread,Mouse,868,31827285,12/13/19,Multi-Omics Profiling Of Mouse Gastrulation At Single-Cell Resolution.
+GSE133699,10X Genomics,shortread,Mouse,20279,31471106,9/1/19,Oncolytic Viruses Engineered To Enforce Leptin Expression Reprogram Tumor-Infiltrating T Cell Metabolism And Promote Tumor Clearance.
+GSE133725,Smart-Seq,longread,Mouse,2582,31827285,12/13/19,Multi-Omics Profiling Of Mouse Gastrulation At Single-Cell Resolution.
+GSE133912,Nextera XT,longread,Mouse,1892,31527803,9/19/19,A Repeated Molecular Architecture Across Thalamic Pathways.
+GSE133948,10X Genomics,shortread,Human,2383,33138772,11/4/20,Functional Module Detection Through Integration Of Single-Cell Rna Sequencing Data With Protein-Protein Interaction Networks.
+GSE134174,10X Genomics,shortread,Human,33804,32427931,5/20/20,Dissecting The Cellular Specificity Of Smoking Effects And Reconstructing Lineages In The Human Airway Epithelium.
+GSE134355,Drop-seq,shortread,Mouse;Human,28799,32214235,3/28/20,Construction Of A Human Cell Landscape At Single-Cell Level.
+GSE134520,10X Genomics,shortread,Human,40205,31067475,5/9/19,Dissecting The Single-Cell Transcriptome Network Underlying Gastric Premalignant Lesions And Early Gastric Cancer.
+GSE134571,10X Genomics,shortread,Human,9650,31511693,9/13/19,Controlled Modelling Of Human Epiblast And Amnion Development Using Stem Cells.
+GSE134722,10X Genomics,shortread,Drosphilia,12743,31746739,11/21/19,Single Cell Transcriptome Atlas Of The
+GSE134809,10X Genomics,shortread,Human,30432,31474370,9/3/19,Single-Cell Analysis Of Crohn'S Disease Lesions Identifies A Pathogenic Cellular Module Associated With Resistance To Anti-Tnf Therapy.
+GSE134918,Nextera XT,shortread,Mouse,55524,32579931,6/25/20,Single-Cell Profiling And Scope-Seq Reveal Lineage Dynamics Of Adult Ventricular-Subventricular Zone Neurogenesis And Notum As A Key Regulator.
+GSE135060,TruSeq,shortread,Mouse,81,32710103,7/28/20,Cell Surface Protein Mrnas Show Differential Transcription In Pyramidal And Fast-Spiking Cells As Revealed By Single-Cell Sequencing.
+GSE135132,Smart-Seq,longread,Mouse,968,31647409,10/28/19,Single-Cell Transcriptomes And Whole-Brain Projections Of Serotonin Neurons In The Mouse Dorsal And Median Raphe Nuclei.
+GSE135133,10X Genomics,shortread,Human,112287,31995762,1/30/20,Integration Of Eqtl And A Single-Cell Atlas In The Human Eye Identifies Causal Genes For Age-Related Macular Degeneration.
+GSE135185,10X Genomics,shortread,Mouse,4381,33526922,2/3/21,Cns Fibroblasts Form A Fibrotic Scar In Response To Immune Cell Infiltration.
+GSE135194,10X Genomics,shortread,Human,32871,32556286,6/20/20,Sequencing Of Rna In Single Cells Reveals A Distinct Transcriptome Signature Of Hematopoiesis In Gata2 Deficiency.
+GSE135437,CEL-seq,shortread,Mouse;Human,11774,31740814,11/20/19,Mapping Microglia States In The Human Brain Through The Integration Of High-Dimensional Techniques.
+GSE135663,10X Genomics,shortread,Human,57603,32656538,7/14/20,Profiling
+GSE135703,Fluidigm,longread,Mouse;Human,194,32116546,3/3/20,Characterizing Adult Cochlear Supporting Cell Transcriptional Diversity Using Single-Cell Rna-Seq: Validation In The Adult Mouse And Translational Implications For The Adult Human Cochlea.
+GSE135710,10X Genomics,shortread,Mouse;Human,2547,32142650,3/7/20,Complement Signals Determine Opposite Effects Of B Cells In Chemotherapy-Induced Immunity.
+GSE135769,Fluidigm,longread,Mouse,90,31878887,12/28/19,Exploring The Changing Landscape Of Cell-To-Cell Variation After Ctcf Knockdown Via Single Cell Rna-Seq.
+GSE135922,10X Genomics,shortread,Human,4155,31712411,11/13/19,Single-Cell Transcriptomics Of The Human Retinal Pigment Epithelium And Choroid In Health And Macular Degeneration.
+GSE136001,10X Genomics,shortread,Mouse,38352,33608526,2/21/21,Single-Cell Rna Sequencing Reveals Functional Heterogeneity Of Glioma-Associated Brain Macrophages.
+GSE136103,10X Genomics,shortread,Mouse;Human,92860,31597160,10/10/19,Resolving The Fibrotic Niche Of Human Liver Cirrhosis At Single-Cell Level.
+GSE136206,10X Genomics,shortread,Mouse,26636,31730857,11/16/19,B Cells And T Follicular Helper Cells Mediate Response To Checkpoint Inhibitors In High Mutation Burden Mouse Models Of Breast Cancer.
+GSE136229,10X Genomics,shortread,Human,2571,32066997,2/19/20,Single-Cell Analysis Of Human Adipose Tissue Identifies Depot And Disease Specific Cell Types.
+GSE136353,10X Genomics,shortread,Human,6229,31630146,10/21/19,Single-Cell Sequencing Reveals The Relationship Between Phenotypes And Genotypes Of Klinefelter Syndrome.
+GSE136394,Fluidigm,longread,Human,65922,31484655,9/6/19,Single-Cell Transcriptome Analysis Reveals Gene Signatures Associated With T-Cell Persistence Following Adoptive Cell Therapy.
+GSE136611,Nextera XT,shortread,Human,82,31651061,10/28/19,Single-Cell Study Of Neural Stem Cells Derived From Human Ipscs Reveals Distinct Progenitor Populations With Neurogenic And Gliogenic Potential.
+GSE136805,10X Genomics,shortread,Mouse;Human,16451,31802004,12/6/19,C-Jun Overexpression In Car T Cells Induces Exhaustion Resistance.
+GSE137082,10X Genomics,shortread,Mouse,5686,31784108,12/1/19,Type I Interferon Signaling Disrupts The Hepatic Urea Cycle And Alters Systemic Metabolism To Suppress T Cell Function.
+GSE137165,10X Genomics,shortread,Mouse,7885,31629685,10/21/19,Single-Cell Analysis Reveals Regulatory Gene Expression Dynamics Leading To Lineage Commitment In Early T Cell Development.
+GSE137398,10X Genomics,shortread,Mouse,73790,31784286,12/1/19,Single-Cell Profiles Of Retinal Ganglion Cells Differing In Resilience To Injury Reveal Neuroprotective Genes.
+GSE137525,Nextera XT,shortread,Zebrafish,275,31908317,1/8/20,Single Cell Sequencing Of Radial Glia Progeny Reveals The Diversity Of Newborn Neurons In The Adult Zebrafish Brain.
+GSE137537,10X Genomics,shortread,Human,18732,31653841,10/28/19,Single-Cell Transcriptomic Atlas Of The Human Retina Identifies Cell Types Associated With Age-Related Macular Degeneration.
+GSE137540,BD Rhapsody,shortread,Mouse;Human,154998,32719519,7/29/20,Single-Cell Transcriptome Profiling Reveals Neutrophil Heterogeneity In Homeostasis And Infection.
+GSE137799,10X Genomics,shortread,Human,1436,,,
+GSE137828,10X Genomics,shortread,Mouse,11026,31784286,12/1/19,Single-Cell Profiles Of Retinal Ganglion Cells Differing In Resilience To Injury Reveal Neuroprotective Genes.
+GSE137863,Smart-Seq,longread,Mouse,365,31784286,12/1/19,Single-Cell Profiles Of Retinal Ganglion Cells Differing In Resilience To Injury Reveal Neuroprotective Genes.
+GSE137869,10X Genomics,shortread,Human;Rat,221801,32109414,2/29/20,Caloric Restriction Reprograms The Single-Cell Transcriptional Landscape Of Rattus Norvegicus Aging.
+GSE138266,10X Genomics,shortread,Mouse;Human,72162,31937773,1/16/20,Integrated Single Cell Analysis Of Blood And Cerebrospinal Fluid Leukocytes In Multiple Sclerosis.
+GSE138302,Nextera XT,shortread,Human,228,33226180,11/24/20,A Robust Culture System To Generate Neural Progenitors With Gliogenic Competence From Clinically Relevant Induced Pluripotent Stem Cells For Treatment Of Spinal Cord Injury.
+GSE138536,Smart-Seq,longread,Human,1849,31974247,1/25/20,Single-Cell Transcriptional Diversity Is A Hallmark Of Developmental Potential.
+GSE138585,10X Genomics,shortread,Mouse,9114,31866069,12/24/19,Progressive Pulmonary Fibrosis Is Caused By Elevated Mechanical Tension On Alveolar Stem Cells.
+GSE138794,10X Genomics,shortread,Human,17616,31554641,9/27/19,The Phenotypes Of Proliferating Glioblastoma Cells Reside On A Single Axis Of Variation.
+GSE138826,10X Genomics,shortread,Mouse,51462,32248062,4/6/20,Temporal Dynamics And Heterogeneity Of Cell Populations During Skeletal Muscle Regeneration.
+GSE138852,10X Genomics,shortread,Human,12778,31768052,11/27/19,A Single-Cell Atlas Of Entorhinal Cortex From Individuals With Alzheimer'S Disease Reveals Cell-Type-Specific Gene Expression Regulation.
+GSE139079,Smart-Seq,longread,Human,1796,32049047,2/13/20,The Repertoire Of Serous Ovarian Cancer Non-Genetic Heterogeneity Revealed By Single-Cell Sequencing Of Normal Fallopian Tube Epithelial Cells.
+GSE139103,10X Genomics,shortread,Mouse,6470,32994417,10/1/20,Satellite Glial Cells Promote Regenerative Growth In Sensory Neurons.
+GSE139107,10X Genomics,shortread,Mouse;Human,118268,32571916,6/24/20,Cell Profiling Of Mouse Acute Kidney Injury Reveals Conserved Cellular Responses To Injury.
+GSE139248,Smart-Seq,longread,Mouse,554,31937348,1/16/20,Dendro: Genetic Heterogeneity Profiling And Subclone Detection By Single-Cell Rna Sequencing.
+GSE139249,10X Genomics,shortread,Human,37786,31801909,12/6/19,Discovery Of Specialized Nk Cell Populations Infiltrating Human Melanoma Metastases.
+GSE139324,10X Genomics,shortread,Human,118728,31924475,1/12/20,Immune Landscape Of Viral- And Carcinogen-Driven Head And Neck Cancer.
+GSE139448,10X Genomics,shortread,Human,12704,32004492,2/1/20,Adult Human Glioblastomas Harbor Radial Glia-Like Cells.
+GSE139598,Seq-Well,shortread,Human;Chimpanzee,155042,31894150,1/3/20,Prevention Of Tuberculosis In Macaques After Intravenous Bcg Immunization.
+GSE139827,10X Genomics,shortread,Mouse,5012,31883835,12/31/19,Arterial Sca1
+GSE139829,10X Genomics,shortread,Human,102944,31980621,1/26/20,Single-Cell Analysis Reveals New Evolutionary Complexity In Uveal Melanoma.
+GSE140228,Smart-Seq,longread,Human,64912,31675496,11/2/19,Landscape And Dynamics Of Single Immune Cells In Hepatocellular Carcinoma.
+GSE140312,10X Genomics,shortread,Human,3004,32054662,2/15/20,Comparative Single-Cell Rna Sequencing (Scrna-Seq) Reveals Liver Metastasis-Specific Targets In A Patient With Small Intestinal Neuroendocrine Cancer.
+GSE140405,10X Genomics,shortread,Human,4710,31924806,1/12/20,Generation Of Mesenchyme Free Intestinal Organoids From Human Induced Pluripotent Stem Cells.
+GSE140807,Smart-Seq,longread,Mouse;Human,939,32179751,3/18/20,Dissecting The Early Steps Of Mll Induced Leukaemogenic Transformation Using A Mouse Model Of Aml.
+GSE141445,10X Genomics,shortread,Human,34606,33420488,1/10/21,Single-Cell Analysis Reveals Transcriptomic Remodellings In Distinct Cell Types That Contribute To Human Prostate Cancer Progression.
+GSE141460,Smart-Seq,longread,Human,6298,32663469,7/15/20,Single-Cell Rna-Seq Reveals Cellular Hierarchies And Impaired Developmental Trajectories In Pediatric Ependymoma.
+GSE141634,Drop-seq,shortread,Mouse,12160,32661339,7/15/20,"Persistence Of A Regeneration-Associated, Transitional Alveolar Epithelial Cell State In Pulmonary Fibrosis."
+GSE141701,10X Genomics,shortread,Drosphilia,3303,33340458,12/20/20,A Progressive Somatic Cell Niche Regulates Germline Cyst Differentiation In The Drosophila Ovary.
+GSE141776,10X Genomics,shortread,Mouse,7881,32268097,4/9/20,"Differentiation Paths Of Peyer'S Patch Lysodcs Are Linked To Sampling Site Positioning, Migration, And T Cell Priming."
+GSE141946,Drop-seq,shortread,Human,55712,31883794,12/31/19,A Patient-Derived Glioblastoma Organoid Model And Biobank Recapitulates Inter- And Intra-Tumoral Heterogeneity.
+GSE141982,10X Genomics,shortread,Human,4794,32105316,2/28/20,Ensemble Learning For Classifying Single-Cell Data And Projection Across Reference Atlases.
+GSE142116,10X Genomics,shortread,Human,47694,32217638,3/29/20,Organoid Cultures Of Early-Onset Colorectal Cancers Reveal Distinct And Rare Genetic Profiles.
+GSE142200,10X Genomics,shortread,Mouse,28949,33128445,11/1/20,System-Level Analyses Of Keystone Genes Required For Mammalian Tooth Development.
+GSE142213,10X Genomics,shortread,Mouse;Human,3738,32330454,4/25/20,C/EbpŒ± And Gata-2 Mutations Induce Bilineage Acute Erythroid Leukemia Through Transformation Of A Neomorphic Neutrophil-Erythroid Progenitor.
+GSE142267,10X Genomics,shortread,Mouse;Human,14077,31951107,1/18/20,Novel Alzheimer Risk Genes Determine The Microglia Response To Amyloid-Œí But Not To Tau Pathology.
+GSE142356,Drop-seq,shortread,Human,5061,33205894,11/19/20,The Transcriptome Dynamics Of Single Cells During The Cell Cycle.
+GSE142564,10X Genomics,shortread,Mouse,32701,32431172,5/21/20,Single-Cell Rna Sequencing To Dissect The Immunological Network Of Autoimmune Myocarditis.
+GSE142585,Nextera XT,shortread,Mouse;Human;Chimpanzee,33904,32504559,6/7/20,"Single-Cell Rna Sequencing Of Human, Macaque, And Mouse Testes Uncovers Conserved And Divergent Features Of Mammalian Spermatogenesis."
+GSE142653,KAPA Hyper Prep Kit,shortread,Human,4543,33077725,10/21/20,Single-Cell Transcriptomics Identifies Divergent Developmental Lineage Trajectories During Human Pituitary Development.
+GSE142999,Smart-Seq,longread,Human,346,32735845,8/1/20,Differential Irf8 Transcription Factor Requirement Defines Two Pathways Of Dendritic Cell Development In Humans.
+GSE143002,Smart-Seq,longread,Human,242,32735845,8/1/20,Differential Irf8 Transcription Factor Requirement Defines Two Pathways Of Dendritic Cell Development In Humans.
+GSE143038,Smart-Seq,longread,Drosphilia,311,32059767,2/16/20,Single-Cell Transcriptomes Reveal Diverse Regulatory Strategies For Olfactory Receptor Expression And Axon Targeting.
+GSE143158,Smart-Seq,longread,Human,151,32735845,8/1/20,Differential Irf8 Transcription Factor Requirement Defines Two Pathways Of Dendritic Cell Development In Humans.
+GSE143363,10X Genomics,shortread,Human,3534,31974170,1/25/20,Monocytic Subclones Confer Resistance To Venetoclax-Based Therapy In Patients With Acute Myeloid Leukemia.
+GSE143437,10X Genomics,shortread,Mouse,32518,32160558,3/12/20,Single-Cell Analysis Of The Muscle Stem Cell Hierarchy Identifies Heterotypic Communication Signals Involved In Skeletal Muscle Regeneration.
+GSE143545,CEL-seq2,shortread,Mouse,1133,32912294,9/12/20,"Starr-Seq Identifies Active, Chromatin-Masked, And Dormant Enhancers In Pluripotent Mouse Embryonic Stem Cells."
+GSE143637,Nextera XT,shortread,Mouse,1051,32402290,5/14/20,Iterative Single-Cell Analyses Define The Transcriptome Of The First Functional Hematopoietic Stem Cells.
+GSE143704,10X Genomics,shortread,Human,21466,32624006,7/7/20,A Reference Single-Cell Transcriptomic Atlas Of Human Skeletal Muscle Tissue Reveals Bifurcated Muscle Stem Cell Populations.
+GSE143758,10X Genomics,shortread,Mouse;Human,81060,32341542,4/29/20,Disease-Associated Astrocytes In Alzheimer'S Disease And Aging.
+GSE143877,Smart-Seq,longread,Mouse,349,32426372,5/20/20,A Single-Cell Transcriptional Roadmap Of The Mouse And Human Lymph Node Lymphatic Vasculature.
+GSE143949,SureCell,shortread,Mouse,5511,33158872,11/8/20,Transcriptional Priming As A Conserved Mechanism Of Lineage Diversification In The Developing Mouse And Human Neocortex.
+GSE144271,10X Genomics,shortread,Mouse,6921,32521264,6/11/20,Prmt1-P53 Pathway Controls Epicardial Emt And Invasion.
+GSE144430,10X Genomics,shortread,Human,8804,32271902,4/10/20,Diversity Of Peripheral Blood Human Nk Cells Identified By Single-Cell Rna Sequencing.
+GSE144444,Drop-seq,shortread,Mouse,1492,32152318,3/11/20,Functional Hypoxia Drives Neuroplasticity And Neurogenesis Via Brain Erythropoietin.
+GSE144730,Nextera XT,shortread,Unknown,1743,32058160,2/15/20,Elevated Circulating Th2 But Not Group 2 Innate Lymphoid Cell Responses Characterize Canine Atopic Dermatitis.
+GSE144735,10X Genomics,shortread,Human,25769,32451460,5/27/20,Lineage-Dependent Gene Expression Programs Influence The Immune Landscape Of Colorectal Cancer.
+GSE144980,Nextera XT,longread,Mouse,2139,32568072,6/23/20,A Single-Cell Transcriptomic And Anatomic Atlas Of Mouse Dorsal Raphe
+GSE145013,ICELL8,shortread,Human,1274,32640237,7/9/20,Single-Cell And Population Transcriptomics Reveal Pan-Epithelial Remodeling In Type 2-High Asthma.
+GSE145137,10X Genomics,shortread,Mouse;Human,2044,32460812,5/29/20,Single-Cell Rna Sequencing Reveals The Tumor Microenvironment And Facilitates Strategic Choices To Circumvent Treatment Failure In A Chemorefractory Bladder Cancer Patient.
+GSE145241,10X Genomics,shortread,Mouse,18280,32663195,7/15/20,Hemolysis Transforms Liver Macrophages Into Antiinflammatory Erythrophagocytes.
+GSE145281,10X Genomics,shortread,Human,55548,32405063,5/15/20,High Systemic And Tumor-Associated Il-8 Correlates With Reduced Clinical Benefit Of Pd-L1 Blockade.
+GSE145307,10X Genomics,shortread,Human,33372,32315970,4/22/20,Transcriptional And Clonal Characterization Of B Cell Plasmablast Diversity Following Primary And Secondary Natural Denv Infection.
+GSE145443,10X Genomics,shortread,Mouse,7682,32729827,7/31/20,An Atlas Of Cell Types In The Mouse Epididymis And Vas Deferens.
+GSE145502,10X Genomics,shortread,Mouse,7201,32632238,7/8/20,Zipseq: Barcoding For Real-Time Mapping Of Single Cell Transcriptomes.
+GSE145531,Smart-Seq,longread,Human,159,33763704,3/26/21,Single-Cell Transcriptomics Dissects Hematopoietic Cell Destruction And T Cell Engagement In Aplastic Anemia.
+GSE145539,Fluidigm,longread,Human,426,33241896,11/27/20,Directed Induction Of Alveolar Type I Cells Derived From Pluripotent Stem Cells Via Wnt Signaling Inhibition.
+GSE145638,Fluidigm,longread,Mouse;Human,119,32302558,4/18/20,Transcriptome Dynamics Of Hematopoietic Stem Cell Formation Revealed Using A Combinatorial Runx1 And Ly6A Reporter System.
+GSE145688,Drop-seq,shortread,Mouse,3723,33239393,11/27/20,Kidney Single-Cell Transcriptomes Predict Spatial Corticomedullary Gene Expression And Tissue Osmolality Gradients.
+GSE145726,CEL-seq,shortread,Mouse;Human,956,32367046,5/6/20,In Vitro Capture And Characterization Of Embryonic Rosette-Stage Pluripotency Between Naive And Primed States.
+GSE145861,10X Genomics,shortread,Mouse,25100,32497356,6/5/20,Urethral Luminal Epithelia Are Castration-Insensitive Cells Of The Proximal Prostate.
+GSE145926,10X Genomics,shortread,Human,63431,32398875,5/14/20,Single-Cell Landscape Of Bronchoalveolar Immune Cells In Patients With Covid-19.
+GSE145928,10X Genomics,shortread,Human,55241,32497356,6/5/20,Urethral Luminal Epithelia Are Castration-Insensitive Cells Of The Proximal Prostate.
+GSE146026,Smart-Seq,longread,Human,9075,32572264,6/24/20,A Single-Cell Landscape Of High-Grade Serous Ovarian Cancer.
+GSE146040,10X Genomics,shortread,Drosphilia,12297,32339165,4/28/20,A Single-Cell Atlas Of Adult Drosophila Ovary Identifies Transcriptional Programs And Somatic Cell Lineage Regulating Oogenesis.
+GSE146046,Smart-Seq,longread,Human,90,32532832,6/14/20,Single-Cell Transcriptomic Analysis Of Allergen-Specific T Cells In Allergy And Asthma.
+GSE146115,Fluidigm,longread,Human,2992,33531041,2/4/21,Clonal Evolution In Liver Cancer At Single-Cell And Single-Variant Resolution.
+GSE146123,10X Genomics,longread,Mouse;Human,2707,32968047,9/25/20,Dental Cell Type Atlas Reveals Stem And Differentiated Cell Types In Mouse And Human Teeth.
+GSE146194,10X Genomics,shortread,Human,188669,32231336,4/2/20,Combinatorial Single-Cell Crispr Screens By Direct Guide Rna Capture And Targeted Sequencing.
+GSE146216,10X Genomics,shortread,Mouse,2080,32151196,3/11/20,Deep Phenotyping By Mass Cytometry And Single-Cell Rna-Sequencing Reveals Lyn-Regulated Signaling Profiles Underlying Monocyte Subset Heterogeneity And Lifespan.
+GSE146221,10X Genomics,shortread,Human,17310,32290418,4/16/20,Reconstruction Of Ewing Sarcoma Developmental Context From Mass-Scale Transcriptomics Reveals Characteristics Of Ewsr1-Fli1 Permissibility.
+GSE146244,10X Genomics,shortread,Mouse,6491,32351546,5/1/20,Single-Cell Transcriptomes Reveal A Complex Cellular Landscape In The Middle Ear And Differential Capacities For Acute Response To Infection.
+GSE146264,Smart-Seq,longread,Human,6012,33309739,12/15/20,Single-Cell Rna Sequencing Of Psoriatic Skin Identifies Pathogenic Tc17 Cell Subsets And Reveals Distinctions Between Cd8
+GSE146456,10X Genomics,shortread,Mouse,8657,33304758,12/12/20,Deficiency Of Sting Signaling In Embryonic Cerebral Cortex Leads To Neurogenic Abnormalities And Autistic-Like Behaviors.
+GSE146637,10X Genomics,shortread,Mouse,11049,32728211,7/31/20,Mechanisms Of Stretch-Mediated Skin Expansion At Single-Cell Resolution.
+GSE146672,Nextera XT,shortread,Mouse;Human,2139,32327659,4/25/20,Deletion Of Topoisomerase 1 In Excitatory Neurons Causes Genomic Instability And Early Onset Neurodegeneration.
+GSE146740,Smart-Seq,longread,Mouse,255,33432227,1/13/21,RorŒ± Is A Critical Checkpoint For T Cell And Ilc2 Commitment In The Embryonic Thymus.
+GSE146741,10X Genomics,shortread,Mouse,5384,33432227,1/13/21,RorŒ± Is A Critical Checkpoint For T Cell And Ilc2 Commitment In The Embryonic Thymus.
+GSE146771,10X Genomics,longread,Mouse;Human,51137,32302573,4/18/20,Single-Cell Analyses Inform Mechanisms Of Myeloid-Targeted Therapies In Colon Cancer.
+GSE146799,CEL-seq,shortread,Human,3185,32407674,5/15/20,High-Resolution Mrna And Secretome Atlas Of Human Enteroendocrine Cells.
+GSE146811,10X Genomics,shortread,Mouse;Human,82266,32355025,5/2/20,Regenerative Potential Of Prostate Luminal Cells Revealed By Single-Cell Analysis.
+GSE146912,10X Genomics,shortread,Mouse,59629,32651223,7/12/20,Single-Cell Transcriptome Profiling Of The Kidney Glomerulus Identifies Key Cell Types And Reactions To Injury.
+GSE147100,Nextera XT,shortread,Mouse,84,32597756,7/1/20,A Tgfbr1/Snai1-Dependent Developmental Module At The Core Of Vertebrate Axial Elongation.
+GSE147143,10X Genomics,shortread,Human,28998,32671793,7/17/20,Single-Cell Analysis Reveals Bronchoalveolar Epithelial Dysfunction In Covid-19 Patients.
+GSE147202,Drop-seq,shortread,Mouse;Human,2976,32375897,5/8/20,Single-Cell Rna-Seq With Spike-In Cells Enables Accurate Quantification Of Cell-Specific Drug Effects In Pancreatic Islets.
+GSE147298,Smart-Seq,longread,Mouse,1514,33184221,11/14/20,Bmp Signaling: At The Gate Between Activated Melanocyte Stem Cells And Differentiation.
+GSE147349,10X Genomics,shortread,Human,29638,32375022,5/7/20,A Nutrient-Sensing Transition At Birth Triggers Glucose-Responsive Insulin Secretion.
+GSE147390,10X Genomics,shortread,Human,8215,34111027,6/11/21,Single-Cell Rna Sequencing Of Human Femoral Head 
+GSE147581,10X Genomics,shortread,Mouse,5221,33340713,12/20/20,Single-Cell Transcriptomics Reveals Zone-Specific Alterations Of Liver Sinusoidal Endothelial Cells In Cirrhosis.
+GSE147668,Unknown,shortread,Mouse;Human,3818,32484158,6/3/20,Diverse Homeostatic And Immunomodulatory Roles Of Immune Cells In The Developing Mouse Lung At Single Cell Resolution.
+GSE147693,10X Genomics,shortread,Mouse;Human,70042,32887883,9/6/20,Pharmacologically Reversible Zonation-Dependent Endothelial Cell Transcriptomic Changes With Neurodegenerative Disease Associations In The Aged Brain.
+GSE147863,10X Genomics,shortread,Human,19824,32333836,4/26/20,Inhibition Of Sars-Cov-2 Infections In Engineered Human Tissues Using Clinical-Grade Soluble Human Ace2.
+GSE147883,Smart-Seq,longread,Mouse;Human,360,32375047,5/7/20,Interstitial Cell Remodeling Promotes Aberrant Adipogenesis In Dystrophic Muscles.
+GSE147989,10X Genomics,shortread,Human,6841,32601337,7/1/20,Targeting Cd70 With Cusatuzumab Eliminates Acute Myeloid Leukemia Stem Cells In Patients Treated With Hypomethylating Agents.
+GSE148063,10X Genomics,shortread,Mouse,7676,33548738,2/7/21,Single-Cell Transcriptional Analysis Reveals Developmental Stage-Dependent Changes In Retinal Progenitors In The Murine Early Optic Vesicle.
+GSE148077,10X Genomics,shortread,Mouse;Human,79373,32555229,6/20/20,Cell Atlas Of The Human Fovea And Peripheral Retina.
+GSE148127,10X Genomics,shortread,Mouse,11616,33264626,12/3/20,Multi-Modal Single-Cell Analysis Reveals Brain Immune Landscape Plasticity During Aging And Gut Microbiota Dysbiosis.
+GSE148190,10X Genomics,shortread,Human,26356,32539073,6/17/20,Layilin Augments Integrin Activation To Promote Antitumor Immunity.
+GSE148367,10X Genomics,shortread,Human,1992,32377875,5/8/20,An Organoid Model To Assay The Role Of Cftr In The Human Epididymis Epithelium.
+GSE148506,Smart-Seq,longread,Human,295,33149301,11/6/20,Paracrine Signalling By Cardiac Calcitonin Controls Atrial Fibrogenesis And Arrhythmia.
+GSE148665,10X Genomics,shortread,Human,1252,32379315,5/8/20,Brem-Sc: A Bayesian Random Effects Mixture Model For Joint Clustering Single Cell Multi-Omics Data.
+GSE148729,Clontech SMRTr,shortread,Human,22188,33585804,2/16/21,Transcriptomic Profiling Of Sars-Cov-2 Infected Human Cell Lines Identifies Hsp90 As Target For Covid-19 Therapy.
+GSE148829,Seq-Well,shortread,Mouse;Human;Chimpanzee,8443,32413319,5/28/20,SARS-CoV-2 Receptor ACE2 Is an Interferon-Stimulated Gene in Human Airway Epithelial Cells and Is Detected in Specific Cell Subsets across Tissues
+GSE148842,Nextera XT,shortread,Human,152328,,,
+GSE148882,Seq-Well,shortread,Mouse,14733,32497523,6/5/20,M
+GSE148946,10X Genomics,shortread,Mouse,75239,32895383,9/9/20,Transcriptomic Analysis Links Diverse Hypothalamic Cell Types To Fibroblast Growth Factor 1-Induced Sustained Diabetes Remission.
+GSE149100,10X Genomics,shortread,Human,9415,32531351,6/13/20,Bulk And Single-Cell Gene Expression Analyses Reveal Aging Human Choriocapillaris Has Pro-Inflammatory Phenotype.
+GSE149224,Drop-seq,shortread,Human,10583,32846134,8/28/20,Single-Cell Transcriptome Analysis Of Colon Cancer Cell Response To 5-Fluorouracil-Induced Dna Damage.
+GSE149301,Smart-Seq,longread,Mouse,1200,32769974,8/10/20,Single-Cell Analysis Uncovers Fibroblast Heterogeneity And Criteria For Fibroblast And Mural Cell Identification And Discrimination.
+GSE149512,10X Genomics,shortread,Human,72496,33173058,11/12/20,Single-Cell Analysis Of Developing And Azoospermia Human Testicles Reveals Central Role Of Sertoli Cells.
+GSE149629,10X Genomics,shortread,Human,17950,33372178,12/30/20,Single-Cell Rna Sequencing Reveals Regulation Of Fetal Ovary Development In The Monkey (Macaca Fascicularis).
+GSE149656,Smart-Seq,longread,Mouse,1616,32769974,8/10/20,Single-Cell Analysis Uncovers Fibroblast Heterogeneity And Criteria For Fibroblast And Mural Cell Identification And Discrimination.
+GSE149689,10X Genomics,shortread,Human,54648,32651212,7/12/20,Immunophenotyping Of Covid-19 And Influenza Highlights The Role Of Type I Interferons In Development Of Severe Covid-19.
+GSE149859,Smart-Seq,longread,Mouse,1618,32769974,8/10/20,Single-Cell Analysis Uncovers Fibroblast Heterogeneity And Criteria For Fibroblast And Mural Cell Identification And Discrimination.
+GSE150132,10X Genomics,shortread,Mouse;Human,66274,33097590,10/25/20,A distinct GM-CSF + T helper cell subset requires T-bet to adopt a TH1 phenotype and promote neuroinflammation
+GSE150219,10X Genomics,shortread,Mouse;Human,7972,32634398,7/8/20,Single-Cell Transcriptomic Analyses Of The Developing Meninges Reveal Meningeal Fibroblast Diversity And Function.
+GSE150289,Smart-Seq,longread,Mouse,1424,32769974,8/10/20,Single-Cell Analysis Uncovers Fibroblast Heterogeneity And Criteria For Fibroblast And Mural Cell Identification And Discrimination.
+GSE150338,10X Genomics,shortread,Mouse;Human,102,33769948,3/27/21,Targeted Single-Cell Rna-Seq Identifies Minority Cell Types Of Kidney Distal Nephron.
+GSE150580,10X Genomics,shortread,Mouse,13165,33378681,12/31/20,Aging-Associated Alterations In Mammary Epithelia And Stroma Revealed By Single-Cell Rna Sequencing.
+GSE150660,10X Genomics,shortread,Mouse;Human,12852,32675368,7/18/20,Cancer Cells Deploy Lipocalin-2 To Collect Limiting Iron In Leptomeningeal Metastasis.
+GSE150672,Seq-Well,longread,Mouse;Human,31227,33053333,10/15/20,Second-Strand Synthesis-Based Massively Parallel Scrna-Seq Reveals Cellular States And Molecular Features Of Human Inflammatory Skin Pathologies.
+GSE150728,Seq-Well,shortread,Human,42782,32514174,6/10/20,A Single-Cell Atlas Of The Peripheral Immune Response In Patients With Severe Covid-19.
+GSE150825,10X Genomics,shortread,Human,69305,33750785,3/23/21,Comprehensive Single-Cell Sequencing Reveals The Stromal Dynamics And Tumor-Specific Characteristics In The Microenvironment Of Nasopharyngeal Carcinoma.
+GSE150861,10X Genomics,shortread,Human,66716,32764665,8/9/20,Single-Cell Analysis Of Two Severe Covid-19 Patients Reveals A Monocyte-Associated And Tocilizumab-Responding Cytokine Storm.
+GSE150903,10X Genomics,shortread,Mouse;Human,32322,32527923,6/13/20,Human Cns Barrier-Forming Organoids With Cerebrospinal Fluid Production.
+GSE150930,10X Genomics,shortread,Human,983,33194728,11/17/20,Evolution Of Advanced Chronic Lymphoid Leukemia Unveiled By Single-Cell Transcriptomics: A Case Report.
+GSE151087,10X Genomics,shortread,Human,1496,32610077,7/2/20,Transcriptional And Functional Analysis Of Cd1C
+GSE151089,10X Genomics,shortread,Mouse;Human,292,32610077,7/2/20,Transcriptional And Functional Analysis Of Cd1C
+GSE151152,10X Genomics,shortread,Mouse,8367,32814028,8/20/20,Paneth Cell-Derived Lysozyme Defines The Composition Of Mucolytic Microbiota And The Inflammatory Tone Of The Intestine.
+GSE151244,Nextera XT,shortread,Mouse,561,32690951,7/22/20,The Activation Trajectory Of Plasmacytoid Dendritic Cells In Vivo During A Viral Infection.
+GSE151245,Nextera XT,shortread,Mouse,1153,32690951,7/22/20,The Activation Trajectory Of Plasmacytoid Dendritic Cells In Vivo During A Viral Infection.
+GSE151246,Smart-Seq,longread,Mouse,174,32690951,7/22/20,The Activation Trajectory Of Plasmacytoid Dendritic Cells In Vivo During A Viral Infection.
+GSE151247,Smart-Seq,longread,Mouse,332,32690951,7/22/20,The Activation Trajectory Of Plasmacytoid Dendritic Cells In Vivo During A Viral Infection.
+GSE151630,Smart-Seq,longread,Mouse;Human,252,32579887,6/25/20,Combinatorial Single-Cell Analyses Of Granulocyte-Monocyte Progenitor Heterogeneity Reveals An Early Uni-Potent Neutrophil Progenitor.
+GSE151658,10X Genomics,shortread,Mouse,41345,33448928,1/16/21,The Orchestrated Cellular And Molecular Responses Of The Kidney To Endotoxin Define A Precise Sepsis Timeline.
+GSE151682,Smart-Seq,longread,Mouse;Human,32,32579887,6/25/20,Combinatorial Single-Cell Analyses Of Granulocyte-Monocyte Progenitor Heterogeneity Reveals An Early Uni-Potent Neutrophil Progenitor.
+GSE151723,10X Genomics,shortread,Mouse;Human,4895,32458983,5/28/20,Single-Cell Analysis Of The Gene Expression Effects Of Developmental Lead (Pb) Exposure On The Mouse Hippocampus.
+GSE151735,Fluidigm,longread,Human,38,32699019,7/24/20,Parallel Bimodal Single-Cell Sequencing Of Transcriptome And Chromatin Accessibility.
+GSE151876,10X Genomics,shortread,Human,2297,32946788,9/19/20,Multi-Layered Spatial Transcriptomics Identify Secretory Factors Promoting Human Hematopoietic Stem Cell Development.
+GSE151877,10X Genomics,shortread,Human,2297,32946788,9/19/20,Multi-Layered Spatial Transcriptomics Identify Secretory Factors Promoting Human Hematopoietic Stem Cell Development.
+GSE152745,10X Genomics,shortread,Human,995,33133158,11/3/20,A Systems Biology Approach To Identifying A Master Regulator That Can Transform The Fast Growing Cellular State To A Slowly Growing One In Early Colorectal Cancer Development Model.
+GSE152906,10X Genomics,shortread,Zebrafish,3839,33591267,2/17/21,An Atlas Of Neural Crest Lineages Along The Posterior Developing Zebrafish At Single-Cell Resolution.
+GSE152962,KAPA Hyper Prep Kit,shortread,Mouse,1621,33173202,11/12/20,Unveiling The Heterogeneity Of Nkt Cells In The Liver Through Single Cell Rna Sequencing.
+GSE152981,10X Genomics,shortread,Human,14135,32731885,8/1/20,"Gmm-Demux: Sample Demultiplexing, Multiplet Detection, Experiment Planning, And Novel Cell-Type Verification In Single Cell Sequencing."
+GSE153056,10X Genomics,shortread,Human,6943,33649593,3/3/21,Characterizing The Molecular Regulation Of Inhibitory Immune Checkpoints With Multimodal Single-Cell Screens.
+GSE153487,10X Genomics,shortread,Mouse;Human,39641,33020472,10/7/20,Glioma-Derived Il-33 Orchestrates An Inflammatory Brain Tumor Microenvironment That Accelerates Glioma Progression.
+GSE153647,10X Genomics,shortread,Mouse;Human,4938,32961131,9/23/20,Single-Cell Analyses Identify Brain Mural Cells Expressing Cd19 As Potential Off-Tumor Targets For Car-T Immunotherapies.
+GSE153697,10X Genomics,shortread,Human,6985,33558546,2/10/21,Single-Cell Profiling Identifies Pre-Existing Cd19-Negative Subclones In A B-All Patient With Cd19-Negative Relapse After Car-T Therapy.
+GSE153701,10X Genomics,shortread,Mouse,9356,33318148,12/16/20,Androgen Action In Cell Fate And Communication During Prostate Development At Single-Cell Resolution.
+GSE154126,Fluidigm,longread,Human,1218,32739450,8/3/20,Single-Cell Transcriptomics Of Human Islet Ontogeny Defines The Molecular Basis Of Œí-Cell Dedifferentiation In T2D.
+GSE154386,10X Genomics,shortread,Human,188525,33513191,1/30/21,Temporally Integrated Single Cell Rna Sequencing Analysis Of Pbmc From Experimental And Natural Primary Human Denv-1 Infections.
+GSE154579,10X Genomics,shortread,Mouse,87147,33116143,10/30/20,Murine Interfollicular Epidermal Differentiation Is Gradualistic With Grhl3 Controlling Progression From Stem To Transition Cell States.
+GSE154679,10X Genomics,shortread,Mouse,33571,33047672,10/14/20,Dynamics Of Nevus Development Implicate Cell Cooperation In The Growth Arrest Of Transformed Melanocytes.
+GSE154692,10X Genomics,shortread,Mouse,2747,32883094,9/5/20,Anti-Inflammatory Actions Of Soluble Ninjurin-1 Ameliorate Atherosclerosis.
+GSE154763,10X Genomics,shortread,Human,65177,33545035,2/6/21,A Pan-Cancer Single-Cell Transcriptional Atlas Of Tumor Infiltrating Myeloid Cells.
+GSE154773,Unknown,shortread,Human,59,32853177,8/28/20,Contribution Of Plasma Cells And B Cells To Hidradenitis Suppurativa Pathogenesis.
+GSE155081,Nextera XT,shortread,Mouse,68557,33718838,3/16/21,Single-Cell Rna-Seq Analysis Reveals Compartment-Specific Heterogeneity And Plasticity Of Microglia.
+GSE155960,10X Genomics,shortread,Human,79982,33907320,4/27/21,Single-cell sequencing of human white adipose tissue identifies new cell states in health and obesity
+GSE155988,10X Genomics,shortread,Zebrafish,5967,32680935,7/19/20,Prdm8 Regulates Pmn Progenitor Specification For Motor Neuron And Oligodendrocyte Fates By Modulating The Shh Signaling Response.
+GSE156057,10X Genomics,shortread,Mouse,118551,32888418,9/6/20,Osteopontin Expression Identifies A Subset Of Recruited Macrophages Distinct From Kupffer Cells In The Fatty Liver.
+GSE156234,10X Genomics,shortread,Mouse,7288,32868786,9/2/20,Single-Cell Rna Sequencing Uncovers Heterogenous Transcriptional Signatures In Macrophages During Efferocytosis.
+GSE156644,10X Genomics,shortread,Mouse;Human,1491,33301706,12/11/20,Heterogeneous Bone-Marrow Stromal Progenitors Drive Myelofibrosis Via A Druggable Alarmin Axis.
+GSE156793,sci-RNA-seq3,shortread,Mouse;Human,3760079,33184181,11/14/20,A Human Cell Atlas Of Fetal Gene Expression.
+GSE157204,Nextera XT,shortread,Mouse;Human;Rat,582,33404500,1/7/21,Subcellular Sequencing Of Single Neurons Reveals The Dendritic Transcriptome Of Gabaergic Interneurons.
+GSE157220,10X Genomics,shortread,Human,50496,33128048,11/1/20,Pan-Cancer Single-Cell Rna-Seq Identifies Recurring Programs Of Cellular Heterogeneity.
+GSE157278,10X Genomics,shortread,Human,54538,33603736,2/20/21,Single-Cell Rna Sequencing Reveals The Expansion Of Cytotoxic Cd4
+GSE157292,10X Genomics,shortread,Mouse,58141,32970632,9/25/20,Single Cell Transcriptomics Of Mouse Kidney Transplants Reveals A Myeloid Cell Pathway For Transplant Rejection.
+GSE157421,Smart-Seq,longread,Mouse;Human,398,33754041,3/24/21,Deciphering The Autophagy Regulatory Network Via Single-Cell Transcriptome Analysis Reveals A Requirement For Autophagy Homeostasis In Spermatogenesis.
+GSE157743,Smart-Seq,longread,Human,82,33203734,11/19/20,The Lipogenic Regulator Srebp2 Induces Transferrin In Circulating Melanoma Cells And Suppresses Ferroptosis.
+GSE157829,10X Genomics,shortread,Human,34034,32954948,9/22/20,An Atlas Of Immune Cell Exhaustion In Hiv-Infected Individuals Revealed By Single-Cell Transcriptomics.
+GSE158002,Smart-Seq,longread,Mouse,5728,33376219,12/31/20,Hypr-Seq: Single-Cell Quantification Of Chosen Rnas Via Hybridization And Sequencing Of Dna Probes.
+GSE158055,10X Genomics,shortread,Human,1348702,,10/29/20,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients
+GSE158724,10X Genomics,shortread,Human,106312,,1/20/21,Convergent evolution of resistance pathways during early stage breast cancer treatment with combination cell cycle (CDK) and endocrine inhibitors
+GSE158866,10X Genomics,shortread,Mouse,53890,33208554,11/20/20,Single-Cell Omics Analysis Reveals Functional Diversification Of Hepatocytes During Liver Regeneration.
+GSE159107,10X Genomics,shortread,Mouse;Human;Chicken,90457,33393903,1/5/21,A Cell Atlas Of The Chick Retina Based On Single-Cell Transcriptomics.
+GSE159354,10X Genomics,shortread,Human,155470,33294861,12/10/20,Osteopontin Links Myeloid Activation And Disease Progression In Systemic Sclerosis.
+GSE159599,10X Genomics,shortread,Unknown,10485,33197070,11/17/20,Characterization Of Sheep Spermatogenesis Through Single-Cell Rna Sequencing.
+GSE159759,TruSeq,shortread,Human,3703,33665640,3/6/21,"Single-Cell Analysis Shows That Adipose Tissue Of Persons With Both Hiv And Diabetes Is Enriched For Clonal, Cytotoxic, And Cmv-Specific Cd4+ T¬†Cells."
+GSE159843,10X Genomics,shortread,Human,23222,33703914,3/12/21,Mir503Hg Loss Promotes Endothelial-To-Mesenchymal Transition In Vascular Disease.
+GSE159929,10X Genomics,shortread,Human,78051,33287869,12/9/20,Single-Cell Transcriptome Profiling Of An Adult Human Cell Atlas Of 15 Major Organs.
+GSE160251,10X Genomics,shortread,Human,24022,,11/12/20,Multi-Modal Profiling of Human Fetal Liver-Derived Hematopoietic Stem Cells Reveals the Molecular Signature of Engraftment Potential
+GSE160384,10X Genomics,shortread,Chimpanzee,17798,33198269,11/18/20,"Methamphetamine Increases The Proportion Of Siv-Infected Microglia/Macrophages, Alters Metabolic Pathways, And Elevates Cell Death Pathways: A Single-Cell Analysis."
+GSE160400,10X Genomics,shortread,Mouse,4339,33151910,11/6/20,Dynamic Single-Cell Rna Sequencing Identifies Immunotherapy Persister Cells Following Pd-1 Blockade.
+GSE160536,10X Genomics,shortread,Human,13014,33168063,11/11/20,Single-Cell Transcriptome Conservation In A Comparative Analysis Of Fresh And Cryopreserved Human Skin Tissue: Pilot In Localized Scleroderma.
+GSE160753,10X Genomics,shortread,Human,7750,33158814,11/8/20,Enhanced Efficacy Of Simultaneous Pd-1 And Pd-L1 Immune Checkpoint Blockade In High-Grade Serous Ovarian Cancer.
+GSE160754,10X Genomics,shortread,Human,3752,33158814,11/8/20,Enhanced Efficacy Of Simultaneous Pd-1 And Pd-L1 Immune Checkpoint Blockade In High-Grade Serous Ovarian Cancer.
+GSE160766,10X Genomics,shortread,Mouse,6470,33674303,3/7/21,Single-Cell Transcriptomic Analysis Of Mihc Images Via Antigen Mapping.
+GSE161089,10X Genomics,shortread,Human,33699,32766588,8/9/20,Direct Exposure To Sars-Cov-2 And Cigarette Smoke Increases Infection Severity And Alters The Stem Cell-Derived Airway Repair Response.
+GSE161617,10X Genomics,shortread,Human,2467,33453151,1/17/21,Single-Cell Analysis Of The Developing Human Testis Reveals Somatic Niche Cell Specification And Fetal Germline Stem Cell Establishment.
+GSE161918,10X Genomics,shortread,Human,335569,33713619,4/1/21,Time-resolved systems immunology reveals a late juncture linked to fatal COVID-19
+GSE161934,10X Genomics,shortread,Human,4675,33283287,12/8/20,An Organoid-Derived Bronchioalveolar Model For Sars-Cov-2 Infection Of Human Alveolar Type Ii-Like Cells.
+GSE162025,10X Genomics,shortread,Human,9612,33531485,2/4/21,Tumour Heterogeneity And Intercellular Networks Of Nasopharyngeal Carcinoma At Single Cell Resolution.
+GSE162121,Smart-Seq,longread,Drosphilia,3638,33555999,2/9/21,Single-Cell Transcriptomes Of Developing And Adult Olfactory Receptor Neurons In
+GSE162621,10X Genomics,shortread,Mouse;Human,2569,33589525,2/17/21,Therapeutic Depletion Of Ccr8
+GSE162692,10X Genomics,shortread,Human,14088,33646886,3/2/21,Strategies To Identify Mesenchymal Stromal Cells In Minimally Manipulated Human Bone Marrow Aspirate Concentrate Lack Consensus.
+GSE162726,Drop-seq,shortread,Human,3013,31710321,11/12/19,Single-Cell Rna-Sequencing Of Migratory Breast Cancer Cells: Discovering Genes Associated With Cancer Metastasis.
+GSE162806,10X Genomics,shortread,Mouse;Human,215042,33320841,12/16/20,A Road Map From Single-Cell Transcriptome To Patient Classification For The Immune Response To Trauma.
+GSE162952,10X Genomics,shortread,Human,2952,33275120,12/5/20,Similarities Between Bovine And Human Germline Development Revealed By Single-Cell Rna Sequencing.
+GSE163029,10X Genomics,shortread,Mouse,19423,33538002,2/5/21,Single-Cell Transcriptomes Of Mouse Bladder Urothelium Uncover Novel Cell Type Markers And Urothelial Differentiation Characteristics.
+GSE163120,10X Genomics,shortread,Mouse;Human,154869,33782623,3/31/21,Single-Cell Profiling Of Myeloid Cells In Glioblastoma Across Species And Disease Stage Reveals Macrophage Competition And Specialization.
+GSE163792,10X Genomics,shortread,Mouse;Human,567,33472597,1/22/21,Systematic Comparison Of High-Throughput Single-Cell Rna-Seq Methods For Immune Cell Profiling.
+GSE164241,10X Genomics,shortread,Human,129229,34129837,6/14/21,Human oral mucosa cell atlas reveals a stromal-neutrophil axis regulating tissue immunity
+GSE164378,10X Genomics,shortread,Human,157388,34062119,6/2/21,Integrated Analysis Of Multimodal Single-Cell Data.
+GSE164898,10X Genomics,shortread,Human,40383,33763657,3/26/21,A Single-Cell Atlas Of The Healthy Breast Tissues Reveals Clinically Relevant Clusters Of Breast Epithelial Cells.
+GSE165193,10X Genomics,shortread,Human,23764,33758834,3/25/21,Single-Cell Immunophenotyping Of The Fetal Immune Response To Maternal Sars-Cov-2 Infection In Late Gestation.
+GSE165552,10X Genomics,shortread,Human,57991,33577798,2/13/21,Targeting Primary And Metastatic Uveal Melanoma With A G Protein Inhibitor.
+GSE165555,10X Genomics,shortread,Mouse,68954,,2/16/21,Single-cell analysis of the ventricular-subventricular zone reveals signatures of dorsal and ventral adult neurogenic lineages
+GSE165880,Smart-Seq,longread,Mouse,7579,,2/9/21,Single cell transcriptomic analysis reveals cellular diversity of murine esophageal epithelium and age-associated mitochondrial dysfunction
+GSE165917,SCRB-seq,shortread,Mouse,446,33712605,3/14/21,Pgc1/Ppar Drive Cardiomyocyte Maturation At Single Cell Level Via Yap1 And Sf3B2.
+GSE166452,10X Genomics,shortread,Mouse,3302,33587034,2/16/21,A Œí-Catenin-Driven Switch In Tcf/Lef Transcription Factor Binding To Dna Target Sites Promotes Commitment Of Mammalian Nephron Progenitor Cells.
+GSE166766,10X Genomics,shortread,Human,73013,33730024,3/18/21,"Single-Cell Longitudinal Analysis Of Sars-Cov-2 Infection In Human Airway Epithelium Identifies Target Cells, Alterations In Gene Expression, And Cell State Changes."
+GSE171524,10X Genomics,shortread,Human,111627,33915568,4/30/21,A Molecular Single-Cell Lung Atlas Of Lethal Covid-19.
+GSE52529,Fluidigm,longread,Human,317,24658644,3/25/14,The Dynamics And Regulators Of Cell Fate Decisions Are Revealed By Pseudotemporal Ordering Of Single Cells.
+GSE54006,Unknown,shortread,Mouse,3494,24531970,2/18/14,Massively Parallel Single-Cell Rna-Seq For Marker-Free Decomposition Of Tissues Into Cell Types.
+GSE54695,CEL-seq,shortread,Mouse,269,24747814,4/22/14,Validation Of Noise Models For Single-Cell Transcriptomics.
+GSE57249,Smart-Seq,longread,Mouse,52,25096407,8/7/14,Cell Fate Inclination Within 2-Cell And 4-Cell Mouse Embryos Revealed By Single-Cell Rna Sequencing.
+GSE57872,Smart-Seq,longread,Human,428,24925914,6/14/14,Single-Cell Rna-Seq Highlights Intratumoral Heterogeneity In Primary Glioblastoma.
+GSE59129,Fluidigm,longread,Mouse;Human,47,25053437,7/24/14,Single Cell Dissection Of Early Kidney Development: Multilineage Priming.
+GSE59130,Fluidigm,longread,Mouse;Human,53,25053437,7/24/14,Single Cell Dissection Of Early Kidney Development: Multilineage Priming.
+GSE60297,Fluidigm,longread,Mouse,160,25224068,9/17/14,"Population And Single-Cell Genomics Reveal The Aire Dependency, Relief From Polycomb Silencing, And Distribution Of Self-Antigen Expression In Thymic Epithelia."
+GSE60361,Fluidigm,longread,Mouse,2784,25700174,2/24/15,Brain Structure. Cell Types In The Mouse Cortex And Hippocampus Revealed By Single-Cell Rna-Seq.
+GSE60768,BATSeq,shortread,Mouse,103,26040288,6/5/15,Single-Cell Polyadenylation Site Mapping Reveals 3' Isoform Choice Variability.
+GSE60781,Nextera XT,shortread,Mouse,239,26054720,6/10/15,Identification Of Cdc1- And Cdc2-Committed Dc Progenitors Reveals Early Lineage Priming At The Common Dc Progenitor Stage In The Bone Marrow.
+GSE61288,Unknown,shortread,Mouse,31,26000486,5/23/15,Single-Cell Transcriptome Analyses Reveal Signals To Activate Dormant Neural Stem Cells.
+GSE63472,Nextera XT,shortread,Mouse;Human,45319,26000488,5/23/15,Highly Parallel Genome-Wide Expression Profiling Of Individual Cells Using Nanoliter Droplets.
+GSE63576,AMBION AM1560,shortread,Mouse,190,26691752,12/23/15,Somatosensory Neuron Types Identified By High-Coverage Single-Cell Rna-Sequencing And Functional Heterogeneity.
+GSE64016,Fluidigm,longread,Human,428,26301841,8/25/15,Oscope Identifies Oscillatory Genes In Unsynchronized Single-Cell Rna-Seq Experiments.
+GSE65529,Nextera XT,shortread,Mouse,87,26343579,9/8/15,Pathogen Cell-To-Cell Variability Drives Heterogeneity In Host Immune Responses.
+GSE65924,Nextera XT,shortread,Mouse,62,27003939,3/24/16,Spatial Transcriptome For The Molecular Annotation Of Lineage Fates And Cell Identity In Mid-Gastrula Mouse Embryo.
+GSE66688,Nextera XT,shortread,Zebrafish,1050,25867923,4/14/15,Spatial Reconstruction Of Single-Cell Gene Expression Data.
+GSE67310,Fluidigm,longread,Mouse,382,27281220,6/10/16,Dissecting Direct Reprogramming From Fibroblast To Neuron Using Single-Cell Rna-Seq.
+GSE67602,Fluidigm,longread,Mouse,1293,27641957,9/20/16,Single-Cell Transcriptomics Reveals That Differentiation And Spatial Signatures Shape Epidermal And Hair Follicle Heterogeneity.
+GSE67833,Nextera XT,longread,Mouse,212,26235341,8/4/15,Single-Cell Transcriptomics Reveals A Population Of Dormant Neural Stem Cells That Become Activated Upon Brain Injury.
+GSE67980,Unknown,shortread,Mouse;Human,162,26383955,9/19/15,Rna-Seq Of Single Prostate Ctcs Implicates Noncanonical Wnt Signaling In Antiandrogen Resistance.
+GSE69405,Fluidigm,longread,Human,157,26084335,6/19/15,Single-Cell Mrna Sequencing Identifies Subclonal Heterogeneity In Anti-Cancer Drug Responses Of Lung Adenocarcinoma Cells.
+GSE70236,Fluidigm,longread,Mouse,89,27580035,9/1/16,Single-Cell Analysis Of Mixed-Lineage States Leading To A Binary Cell Fate Choice.
+GSE70239,Fluidigm,longread,Mouse,76,27580035,9/1/16,Single-Cell Analysis Of Mixed-Lineage States Leading To A Binary Cell Fate Choice.
+GSE70240,Fluidigm,longread,Mouse,129,27580035,9/1/16,Single-Cell Analysis Of Mixed-Lineage States Leading To A Binary Cell Fate Choice.
+GSE70241,Fluidigm,longread,Mouse,32,27580035,9/1/16,Single-Cell Analysis Of Mixed-Lineage States Leading To A Binary Cell Fate Choice.
+GSE70242,Fluidigm,longread,Mouse,60,27580035,9/1/16,Single-Cell Analysis Of Mixed-Lineage States Leading To A Binary Cell Fate Choice.
+GSE70243,Fluidigm,longread,Mouse,63,27580035,9/1/16,Single-Cell Analysis Of Mixed-Lineage States Leading To A Binary Cell Fate Choice.
+GSE70244,Fluidigm,longread,Mouse,93,27580035,9/1/16,Single-Cell Analysis Of Mixed-Lineage States Leading To A Binary Cell Fate Choice.
+GSE70630,Smart-Seq,longread,Human,4113,27806376,11/5/16,Single-Cell Rna-Seq Supports A Developmental Hierarchy In Human Oligodendroglioma.
+GSE70657,Fluidigm,longread,Mouse,128,27009448,3/25/16,Single-Cell Rna Sequencing Reveals Molecular And Functional Platelet Bias Of Aged Haematopoietic Stem Cells.
+GSE70798,Unknown,shortread,Mouse,192,26237550,8/4/15,Aire Controls Gene Expression In The Thymic Epithelium With Ordered Stochasticity.
+GSE71315,Fluidigm,longread,Human,255,27081004,4/16/16,Single-Cell Analysis Of Long Non-Coding Rnas In The Developing Human Neocortex.
+GSE71453,Smart-Seq,longread,Mouse;Human,100,27558660,8/26/16,Single-Cell Rna-Seq Reveals Distinct Injury Responses In Different Types Of Drg Sensory Neurons.
+GSE71982,Fluidigm,longread,Mouse,298,26469390,10/16/15,Single-Cell Rna-Seq Resolves Cellular Complexity In Sensory Organs From The Neonatal Inner Ear.
+GSE72056,Smart-Seq,longread,Human,4523,27124452,4/29/16,Dissecting The Multicellular Ecosystem Of Metastatic Melanoma By Single-Cell Rna-Seq.
+GSE72857,MARS-seq,shortread,Mouse,8372,26627738,12/3/15,Transcriptional Heterogeneity And Lineage Commitment In Myeloid Progenitors.
+GSE74207,Fluidigm,longread,Human,55,27263970,6/7/16,A Primate Lncrna Mediates Notch Signaling During Neuronal Development By Sequestering Mirna.
+GSE74534,Nextera XT,shortread,Mouse,57,26752769,1/12/16,Parallel Single-Cell Sequencing Links Transcriptional And Epigenetic Heterogeneity.
+GSE74923,Smart-Seq,longread,Mouse,181,26732280,1/7/16,A Microfluidic Platform Enabling Single-Cell Rna-Seq Of Multigenerational Lineages.
+GSE75140,Fluidigm,longread,Human,703,26644564,12/9/15,Human Cerebral Organoids Recapitulate Gene Expression Programs Of Fetal Neocortex Development.
+GSE75330,Fluidigm,longread,Mouse,4740,27284195,6/11/16,Oligodendrocyte Heterogeneity In The Mouse Juvenile And Adult Central Nervous System.
+GSE75367,Nextera XT,shortread,Human,72,27556950,8/25/16,Her2 Expression Identifies Dynamic Functional States Within Circulating Breast Cancer Cells.
+GSE75386,Nextera XT,shortread,Mouse,100,27531958,8/18/16,Single-Cell Rnaseq Reveals Cell Adhesion Molecule Profiles In Electrophysiologically Defined Neurons.
+GSE75413,TruSeq,shortread,Mouse,85,26541607,11/7/15,Single-Cell Transcriptomics Reveals Receptor Transformations During Olfactory Neurogenesis.
+GSE75688,Fluidigm,longread,Human,268,28474673,5/6/17,Single-Cell Rna-Seq Enables Comprehensive Tumour And Immune Cell Profiling In Primary Breast Cancer.
+GSE75790,CEL-seq,longread,Mouse;Human,554,28212749,2/19/17,Comparative Analysis Of Single-Cell Rna Sequencing Methods.
+GSE75804,Fluidigm,longread,Mouse,92,26804902,1/26/16,Serum-Based Culture Conditions Provoke Gene Expression Variability In Mouse Embryonic Stem Cells As Revealed By Single-Cell Analysis.
+GSE76005,Clontech SMRTr,shortread,Mouse,58,26780092,1/19/16,Characterizing Transcriptional Heterogeneity Through Pathway And Gene Set Overdispersion Analysis.
+GSE76157,Nextera XT,shortread,Mouse,198,27160914,5/11/16,Systematic Reconstruction Of Molecular Cascades Regulating Gp Development Using Single-Cell Rna-Seq.
+GSE76312,Fluidigm,longread,Human,2120,28504724,5/16/17,Single-Cell Transcriptomics Uncovers Distinct Molecular Signatures Of Stem Cells In Chronic Myeloid Leukemia.
+GSE76483,Unknown,shortread,Mouse;Human,153,27150361,5/7/16,Simultaneous Profiling Of Transcriptome And Dna Methylome From A Single Cell.
+GSE77740,Fluidigm,longread,Mouse,138,27811054,11/5/16,Progressive Alterations In Multipotent Hematopoietic Progenitors Underlie Lymphoid Cell Loss In Aging.
+GSE77847,Fluidigm,longread,Mouse;Human,87,27016502,3/27/16,"Dnmt3A Haploinsufficiency Transforms Flt3Itd Myeloproliferative Disease Into A Rapid, Spontaneous, And Fully Penetrant Acute Myeloid Leukemia."
+GSE77980,Fluidigm,longread,Mouse,561,26951663,3/10/16,Use Of The Fluidigm C1 Platform For Rna Sequencing Of Single Mouse Pancreatic Islet Cells.
+GSE78779,CEL-seq,longread,Mouse,89,27121950,4/29/16,Cel-Seq2: Sensitive Highly-Multiplexed Single-Cell Rna-Seq.
+GSE78907,Fluidigm,longread,Mouse,43,27580035,9/1/16,Single-Cell Analysis Of Mixed-Lineage States Leading To A Binary Cell Fate Choice.
+GSE79280,Smart-Seq,longread,Mouse;Human,98,29760424,5/16/18,Parental Haplotype-Specific Single-Cell Transcriptomics Reveal Incomplete Epigenetic Reprogramming In Human Female Germ Cells.
+GSE79363,Smart-Seq,longread,Mouse,55,27841856,11/15/16,Single-Cell Rna-Seq Ties Macrophage Polarization To Growth Rate Of Intracellular Salmonella.
+GSE79818,MARS-seq,shortread,Mouse,2826,27338705,6/25/16,Microglia Development Follows A Stepwise Program To Regulate Brain Homeostasis.
+GSE80032,Smart-Seq,longread,Mouse,100,27923766,12/8/16,Single-Cell Analysis Uncovers Clonal Acinar Cell Heterogeneity In The Adult Pancreas.
+GSE81076,CEL-seq,shortread,Mouse;Human,1414,27345837,6/28/16,De Novo Prediction Of Stem Cell Identity Using Single-Cell Transcriptome Data.
+GSE81547,Nextera XT,shortread,Human,3616,28965763,10/3/17,Single-Cell Analysis Of Human Pancreas Reveals Transcriptional Signatures Of Aging And Somatic Mutation Patterns.
+GSE81682,Nextera XT,shortread,Mouse,1738,27365425,7/2/16,A Single-Cell Resolution Map Of Mouse Hematopoietic Stem And Progenitor Cell Differentiation.
+GSE81812,Smart-Seq,longread,Human,157,31638164,10/23/19,Population And Single‚ÄëCell Transcriptome Analyses Reveal Diverse Transcriptional Changes Associated With Radioresistance In Esophageal Squamous Cell Carcinoma.
+GSE82187,Clontech SMRTr,longread,Mouse,1128,27425622,7/19/16,Cellular Taxonomy Of The Mouse Striatum As Revealed By Single-Cell Rna-Seq.
+GSE83139,Fluidigm,longread,Human,635,27364731,7/2/16,Single-Cell Transcriptomics Of The Human Endocrine Pancreas.
+GSE84133,CEL-seq,shortread,Mouse;Human,7146,27667365,10/28/16,A Single-Cell Transcriptomic Map Of The Human And Mouse Pancreas Reveals Inter- And Intra-Cell Population Structure.
+GSE84465,Smart-Seq,longread,Human,3362,29091775,11/2/17,Single-Cell Rna-Seq Analysis Of Infiltrating Neoplastic Cells At The Migrating Front Of Human Glioblastoma.
+GSE84498,MARS-seq,shortread,Mouse,1644,28166538,2/7/17,Single-Cell Spatial Reconstruction Reveals Global Division Of Labour In The Mammalian Liver.
+GSE85152,MARS-seq,shortread,Mouse,2020,27545347,8/23/16,The Spectrum And Regulatory Landscape Of Intestinal Innate Lymphoid Cells Are Shaped By The Microbiome.
+GSE85234,Nextera XT,shortread,Mouse,63,29187729,12/1/17,Inference Of Differentiation Time For Single Cell Transcriptomes Using Cell Population Reference Data.
+GSE85241,CEL-seq,shortread,Human,2434,27693023,10/28/16,A Single-Cell Transcriptome Atlas Of The Human Pancreas.
+GSE85527,Fluidigm,longread,Human,202,28664195,7/1/17,Partial Exhaustion Of Cd8 T Cells And Clinical Response To Teplizumab In New-Onset Type 1 Diabetes.
+GSE85534,Nextera XT,longread,Mouse;Human,719,28249587,3/3/17,Single-Cell Transcriptome Conservation In Cryopreserved Cells And Tissues.
+GSE85875,CEL-seq,shortread,Mouse,235,28135720,1/31/17,Identity And Dynamics Of Mammary Stem Cells During Branching Morphogenesis.
+GSE86153,Nextera XT,shortread,Human,78488,28445462,4/27/17,Cell Diversity And Network Dynamics In Photosensitive Human Brain Organoids.
+GSE86310,Fluidigm,longread,Mouse,71,28431249,4/22/17,Macrophages Facilitate Electrical Conduction In The Heart.
+GSE86469,Nextera XT,shortread,Human,533,27864352,11/20/16,Single-Cell Transcriptomes Identify Human Islet Cell Signatures And Reveal Cell-Type-Specific Expression Changes In Type 2 Diabetes.
+GSE86618,Fluidigm,longread,Human,373,27942595,12/13/16,Single-Cell Rna Sequencing Identifies Diverse Roles Of Epithelial Cells In Idiopathic Pulmonary Fibrosis.
+GSE87375,Smart-Seq,longread,Mouse,867,28467935,5/4/17,Deciphering Pancreatic Islet Œí Cell And Œë Cell Maturation Pathways And Characteristic Features At The Single-Cell Level.
+GSE87527,Smart-Seq,longread,Mouse;Chicken,363,27863245,11/20/16,Epigenetic Memory Underlies Cell-Autonomous Heterogeneous Behavior Of Hematopoietic Stem Cells.
+GSE87544,Drop-seq,shortread,Mouse,1165,28355573,3/30/17,Single-Cell Rna-Seq Reveals Hypothalamic Cell Diversity.
+GSE87849,Fluidigm,longread,Human,395,28061811,1/8/17,The Nature And Nurture Of Cell Heterogeneity: Accounting For Macrophage Gene-Environment Interactions With Single-Cell Rna-Seq.
+GSE89232,Smart-Seq,longread,Human,903,27864467,11/20/16,Human Dendritic Cells (Dcs) Are Derived From Distinct Circulating Precursors That Are Precommitted To Become Cd1C+ Or Cd141+ Dcs.
+GSE89236,Fluidigm,longread,Human,80,27940562,12/13/16,A Cost Effective 5ŒÑ Selective Single Cell Transcriptome Profiling Approach With Improved Umi Design.
+GSE89237,Fluidigm,longread,Human,79,27940562,12/13/16,A Cost Effective 5ŒÑ Selective Single Cell Transcriptome Profiling Approach With Improved Umi Design.
+GSE89497,Smart-Seq,longread,Mouse;Human,1498,30042384,7/26/18,Single-Cell Rna-Seq Reveals The Diversity Of Trophoblast Subtypes And Patterns Of Differentiation In The Human Placenta.
+GSE89567,Smart-Seq,longread,Human,5994,28360267,4/1/17,"Decoupling Genetics, Lineages, And Microenvironment In Idh-Mutant Gliomas By Single-Cell Rna-Seq."
+GSE89910,Nextera XT,shortread,Chicken,165,29678445,4/22/18,Spatial Patterns Of Gene Expression Are Unveiled In The Chick Primitive Streak By Ordering Single-Cell Transcriptomes.
+GSE90546,10X Genomics,shortread,Human,19020,27984733,12/17/16,A Multiplexed Single-Cell Crispr Screening Platform Enables Systematic Dissection Of The Unfolded Protein Response.
+GSE90856,Nextera XT,longread,Mouse,363,28285904,3/14/17,Mex3A Marks A Slowly Dividing Subpopulation Of Lgr5+ Intestinal Stem Cells.
+GSE90860,Fluidigm,longread,Mouse,207,28134272,1/31/17,Transcriptomic And Anatomic Parcellation Of 5-Ht
+GSE92522,TruSeq,shortread,Mouse,551,28942923,9/26/17,Transcriptional Architecture Of Synaptic Communication Delineates Gabaergic Neuron Identity.
+GSE92707,Smart-Seq,longread,Mouse,157,28462073,5/4/17,Heterogeneity Of Hypothalamic Pro-Opiomelanocortin-Expressing Neurons Revealed By Single-Cell Rna Sequencing.
+GSE92842,Fluidigm,longread,Mouse,379,29174332,11/28/17,Injury Induces Endogenous Reprogramming And Dedifferentiation Of Neuronal Progenitors To Multipotency.
+GSE92872,Nextera XT,shortread,Mouse;Human,80,28099430,1/19/17,Pooled Crispr Screening With Single-Cell Transcriptome Readout.
+GSE93321,Smart-Seq,longread,Human,157,28445465,4/27/17,Assembly Of Functionally Integrated Human Forebrain Spheroids.
+GSE93374,Nextera XT,shortread,Mouse,20251,28166221,2/7/17,A Molecular Census Of Arcuate Hypothalamus And Median Eminence Cell Types.
+GSE93524,Fluidigm,longread,Mouse,50,28826820,8/23/17,Antagonistic Activities Of Sox2 And Brachyury Control The Fate Choice Of Neuro-Mesodermal Progenitors.
+GSE93593,Smart-Seq,longread,Human,1619,28279351,3/11/17,Single-Cell Profiling Of An In¬†Vitro Model Of Human Interneuron Development Reveals Temporal Dynamics Of Cell Type Production And Maturation.
+GSE93811,BD Resolve,shortread,Human,11280,28445465,4/27/17,Assembly Of Functionally Integrated Human Forebrain Spheroids.
+GSE94333,Nextera XT,shortread,Mouse,34867,28851704,8/31/17,Psychrophilic Proteases Dramatically Reduce Single-Cell Rna-Seq Artifacts: A Molecular Atlas Of Kidney Development.
+GSE94383,Fluidigm,longread,Mouse,461,28396000,4/12/17,Measuring Signaling And Rna-Seq In The Same Cell Links Gene Expression To Dynamic Patterns Of Nf-Œöb Activation.
+GSE95194,Fluidigm,longread,Mouse,1857,30078729,8/7/18,Transcriptional Convergence Of Oligodendrocyte Lineage Progenitors During Development.
+GSE95432,Fluidigm,longread,Mouse,176,29158510,11/22/17,Construction Of Developmental Lineage Relationships In The Mouse Mammary Gland By Single-Cell Rna Profiling.
+GSE95445,Fluidigm,longread,Mouse,395,29158510,11/22/17,Construction Of Developmental Lineage Relationships In The Mouse Mammary Gland By Single-Cell Rna Profiling.
+GSE95446,Fluidigm,longread,Human,158,30270042,10/3/18,Structural Remodeling Of The Human Colonic Mesenchyme In Inflammatory Bowel Disease.
+GSE95448,Fluidigm,longread,Mouse,284,29158510,11/22/17,Construction Of Developmental Lineage Relationships In The Mouse Mammary Gland By Single-Cell Rna Profiling.
+GSE95450,Fluidigm,longread,Human,106,30270042,10/3/18,Structural Remodeling Of The Human Colonic Mesenchyme In Inflammatory Bowel Disease.
+GSE95630,Smart-Seq,longread,Human,5014,29802404,5/29/18,Tracing The Temporal-Spatial Transcriptome Landscapes Of The Human Fetal Digestive Tract Using Single-Cell Rna-Sequencing.
+GSE95837,Smart-Seq,longread,Human,168,28445465,4/27/17,Assembly Of Functionally Integrated Human Forebrain Spheroids.
+GSE96106,Fluidigm,longread,Human,134,28463226,5/4/17,Prospective Isolation Of Nkx2-1-Expressing Human Lung Progenitors Derived From Pluripotent Stem Cells.
+GSE96562,Fluidigm,longread,Human,136,28566371,6/2/17,Single-Cell Rna Sequencing Reveals Expanded Clones Of Islet Antigen-Reactive Cd4
+GSE96564,Fluidigm,longread,Human,44,28566371,6/2/17,Single-Cell Rna Sequencing Reveals Expanded Clones Of Islet Antigen-Reactive Cd4
+GSE96568,Fluidigm,longread,Human,231,28566371,6/2/17,Single-Cell Rna Sequencing Reveals Expanded Clones Of Islet Antigen-Reactive Cd4
+GSE96958,Fluidigm,longread,Mouse,181,29555020,3/21/18,Single-Cell Transcriptomics Reveals A New Dynamical Function Of Transcription Factors During Embryonic Hematopoiesis.
+GSE97168,MARS-seq,shortread,Human,1307,28475900,5/6/17,Innate Immune Landscape In Early Lung Adenocarcinoma By Paired Single-Cell Analyses.
+GSE97478,Fluidigm,longread,Mouse,1069,30134177,8/23/18,Diversity Of Interneurons In The Dorsal Striatum Revealed By Single-Cell Rna Sequencing And Patchseq.
+GSE97519,Fluidigm,longread,Mouse,372,29425512,2/10/18,Deciphering Cell Lineage Specification During Male Sex Determination With Single-Cell Rna Sequencing.
+GSE97564,10X Genomics,shortread,Human,4069,28438991,4/26/17,Differentiation Of V2A Interneurons From Human Pluripotent Stem Cells.
+GSE97849,10X Genomics,shortread,Mouse,8418,29857010,6/2/18,Deconstructive Somatic Cell Nuclear Transfer Reveals Novel Regulatory T-Cell Subsets.
+GSE97941,Fluidigm,longread,Mouse,230,28650342,6/27/17,Inflammatory Ly6Chi Monocytes And Their Conversion To M2 Macrophages Drive Atherosclerosis Regression.
+GSE98048,Smart-Seq,longread,Mouse;Human,69,28408401,4/15/17,Synergistic Immunostimulatory Effects And Therapeutic Benefit Of Combined Histone Deacetylase And Bromodomain Inhibition In Non-Small Cell Lung Cancer.
+GSE98415,Fluidigm,longread,Mouse,472,28768198,8/3/17,Enhanced Neuronal Regeneration In The Cast/Ei Mouse Strain Is Linked To Expression Of Differentiation Markers After Injury.
+GSE98451,CEL-seq,shortread,Mouse,683,28625536,6/20/17,Reconstructing Lineage Hierarchies Of Mouse Uterus Epithelial Development Using Single-Cell Analysis.
+GSE98638,Smart-Seq,longread,Human,4813,28622514,6/18/17,Landscape Of Infiltrating T Cells In Liver Cancer Revealed By Single-Cell Sequencing.
+GSE98664,Fluidigm,longread,Mouse,279,29434199,2/13/18,Single-Cell Full-Length Total Rna Sequencing Uncovers Dynamics Of Recursive Splicing And Enhancer Rnas.
+GSE98816,Smart-Seq,longread,Mouse,2952,29443965,2/15/18,A Molecular Atlas Of Cell Types And Zonation In The Brain Vasculature.
+GSE98852,Fluidigm,longread,Human,410,29408715,2/7/18,Single-Cell Profiling Of Peanut-Responsive T Cells In Patients With Peanut Allergy Reveals Heterogeneous Effector T
+GSE99058,Smart-Seq,longread,Mouse,234,29443965,2/15/18,A Molecular Atlas Of Cell Types And Zonation In The Brain Vasculature.
+GSE99095,Fluidigm,longread,Human,960,29030335,10/17/17,Single-Cell Rna-Seq Reveals A Distinct Transcriptome Signature Of Aneuploid Hematopoietic Cells.
+GSE99235,Smart-Seq,longread,Mouse,1401,29443965,2/15/18,A Molecular Atlas Of Cell Types And Zonation In The Brain Vasculature.
+GSE99254,Smart-Seq,longread,Human,11763,29942094,6/27/18,Global Characterization Of T Cells In Non-Small-Cell Lung Cancer By Single-Cell Sequencing.
+GSE99305,Fluidigm,longread,Human,90,28922540,9/19/17,Ape1/Ref-1 Knockdown In Pancreatic Ductal Adenocarcinoma - Characterizing Gene Expression Changes And Identifying Novel Pathways Using Single-Cell Rna Sequencing.
+GSE99701,Fluidigm,longread,Mouse,192,29089413,11/2/17,Transcriptomes Of Major Renal Collecting Duct Cell Types In Mouse Identified By Single-Cell Rna-Seq.
+GSE99735,10X Genomics,shortread,Mouse,7512,28671690,7/4/17,Skewing Of The Population Balance Of Lymphoid And Myeloid Cells By Secreted And Intracellular Osteopontin.
+GSE99915,10X Genomics,shortread,Mouse,18822,30518857,12/7/18,Single-Cell Mapping Of Lineage And Identity In Direct Reprogramming.
+GSE99989,Fluidigm,longread,Mouse,265,29334988,1/18/18,Epidermal Wnt Signalling Regulates Transcriptome Heterogeneity And Proliferative Fate In Neighbouring Cells.
+HCA-abe1a013-af7a-45ed-8c26-f3793c24a1f4,10X Genomics,shortread,Human,60132,31604275,10/12/19,Spatiotemporal Immune Zonation Of The Human Kidney.
+HRA000150,10X Genomics,shortread,Human,112535,32788748,8/14/20,Single-Cell Landscape Of Immunological Responses In Patients With Covid-19.
+NEMO-DAT-0RSYDY7,10x Genomics,shortread,Mouse,45830,33723434,3/17/21,Single-Cell Atlas Of Early Human Brain Development Highlights Heterogeneity Of Human Neuroepithelial Cells And Early Radial Glia.
+NEMO-DAT-JB2F34Y,10x Genomics,shortread,Mouse,70895,34004146,5/19/21,A Taxonomy Of Transcriptomic Cell Types Across The Isocortex And Hippocampal Formation.
+PHS000424-V8-P1,DroNc-seq,shortread,Human; Mouse,11612,28846088,8/29/17,Massively Parallel Single-Nucleus Rna-Seq With Dronc-Seq.
+PRJEB31843,10X Genomics,shortread,Human,166310,31892341,1/2/20,"Scrna-Seq Assessment Of The Human Lung, Spleen, And Esophagus Tissue Stability After Cold Preservation."
+PRJNA434002,10x Genomics,shortread,Human,101795,31097668,5/18/19,Single-Cell Genomics Identifies Cell Type-Specific Molecular Changes In Autism.
+PRJNA438862,10X Genomics,shortread,Mouse,568760,30096314,8/11/18,Molecular Architecture Of The Mouse Nervous System.
+PRJNA544731,10X Genomics,shortread,Human,46913,31316211,7/19/19,Neuronal Vulnerability And Multilineage Diversity In Multiple Sclerosis.
+PRJNA637987,10x Genomics,shortread,Mouse,276182,34321664,7/28/21,Molecular architecture of the developing mouse brain
+SCP253,Seq-Well,shortread,Human,16788,30135581,8/24/18,Allergic Inflammatory Memory In Human Respiratory Epithelial Progenitor Cells.
+SCP256,Seq-Well,shortread,Human,55612,32251406,4/7/20,Integrated Single-Cell Analysis Of Multicellular Immune Dynamics During Hyperacute Hiv-1 Infection.
+SCP259,10X Genomics,shortread,Human,291831,31348891,7/28/19,Intra- And Inter-Cellular Rewiring Of The Human Colon During Ulcerative Colitis.
+SCP806,10x Genomics,shortread,Human;Monkey,993,32413319,5/28/20,SARS-CoV-2 Receptor ACE2 Is an Interferon-Stimulated Gene in Human Airway Epithelial Cells and Is Detected in Specific Cell Subsets across Tissues
+TSP1-2,10x Genomics,shortread,Human,147730,35549404,5/13/22,"The Tabula Sapiens: A multiple-organ, single-cell transcriptomic atlas of humans"
