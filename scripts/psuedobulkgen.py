@@ -1,11 +1,3 @@
-####################################################################################################
-## Copyright (C) 2021-Present - Daniel Charytonowicz - All Rights Reserved
-## Unauthorized copying of this file, via any medium is strictly prohibited
-## Proprietary and Confidential
-## Written by: Daniel Charytonowiczz
-## Contact: daniel.charytonowicz@icahn.mssm.edu
-####################################################################################################
-
 """
 
 ======
