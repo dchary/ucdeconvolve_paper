@@ -4,6 +4,30 @@ This repository contains notebooks and scripts used in the UniCell Deconvolve pa
 
 For tutorials on using UniCellDeconvolve, please see the full documentation available at https://ucdeconvolve.readthedocs.io/en/latest/ and download the software package at https://github.com/dchary/ucdeconvolve/tree/main/ucdeconvolve
 
+## Benchmarking Studies
+----------------------------------
+The following table provides links to all datasets used in benchmarking of UCD.
+
+| Dataset Description                         | Figure | Use                 | In UCD | Source                  | Link                                                                                                                                                    |
+| ------------------------------------------- | ------ | ------------------- | ------ | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 10K PBMC Healthy Donor                      | 2      | Mixture             | No     | 10X Genomics            | [source](https://www.10xgenomics.com/resources/datasets/10k-human-pbmcs-3-ht-v3-1-chromium-x-3-1-high)                                                  |
+| 5K PBMC Healthy Donor                       | 2      | Reference           | No     | 10X Genomics            | [source](https://www.10xgenomics.com/resources/datasets/5-k-peripheral-blood-mononuclear-cells-pbm-cs-from-a-healthy-donor-next-gem-3-1-standard-3-0-2) |
+| Wang et. al 2020 Lung                       | 2      | Mixture             | No     | cellxgene               | [source](https://cellxgene.cziscience.com/collections/625f6bf4-2f33-4942-962e-35243d284837)                                                             |
+| Travaglini et. al 2020 Lung                 | 2      | Reference           | Yes    | cellxgene               | [source](https://cellxgene.cziscience.com/collections/5d445965-6f1a-4b68-ba3a-b8f765155d3a)                                                             |
+| Cowan et al. 2020 Retina Periphery          | 2      | Mixture             | No     | cellxgene               | [source](https://cellxgene.cziscience.com/collections/2f4c738f-e2f3-4553-9db2-0582a38ea4dc)                                                             |
+| Cowan et al. 2020 Retina Fovea              | 2      | Reference           | No     | cellxgene               | [source](https://cellxgene.cziscience.com/collections/2f4c738f-e2f3-4553-9db2-0582a38ea4dc)                                                             |
+| DREAM Bulk Deconvolution Challenge          | S2     | Reference & Mixture | No     | GSE199324               | [source](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE199324)                                                                                  |
+| Murine Kidney Injury                        | 3      |                     | No     | rebuildingakidney (RBK) | [source](https://www.rebuildingakidney.org/chaise/record/#2/RNASeq:Study/RID=17-E9P0)                                                                   |
+| Human Breast Cancer                         | 4      |                     | No     | 10X Genomics            | [source](https://www.10xgenomics.com/resources/datasets/human-breast-cancer-ductal-carcinoma-in-situ-invasive-carcinoma-ffpe-1-standard-1-3-0)          |
+| Human Prostate Cancer                       | 4      |                     | No     | 10X Genomics            | [source](https://www.10xgenomics.com/resources/datasets/human-prostate-cancer-adenocarcinoma-with-invasive-carcinoma-ffpe-1-standard-1-3-0)             |
+| Human Colon Cancer                          | 4      |                     | No     | 10X Genomics            | [source](https://www.10xgenomics.com/resources/datasets/human-colorectal-cancer-whole-transcriptome-analysis-1-standard-1-2-0)                          |
+| Idiopathic Pulmonary Fibrosis               | 5      |                     | No     | GSE134692               | [source](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE134692)                                                                                  |
+| Type II Diabetes                            | 5      |                     | No     | GSE50244                | [source](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE50244)                                                                                   |
+| Multiple Sclerosis                          | 5      |                     | No     | GSE138614               | [source](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE138614)                                                                                  |
+| STARMap                                     | S2     |                     | No     | Qu Kun Lab              | [source](https://github.com/QuKunLab/SpatialBenchmarking/tree/main/FigureData/Figure4/Dataset10_STARmap/Rawdata)                                        |
+| Ding et. al. 2019 PBMC Technical Comparison | S2     |                     | No     | GSE132044               | [source](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE132044)                                                                                  |
+
+
 Interpretable & Context-Free Deconvolution of Multi-Scale Whole Transcriptomic Data With UniCell Deconvolve
 ----------------------------------
 Authors: Daniel M. Charytonowicz, Rachel Brody, and Robert S. Sebra
